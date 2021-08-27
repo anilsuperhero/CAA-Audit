@@ -1,0 +1,189 @@
+{ 
+    "_id" : ObjectId("61039ce341186d38042248a7"), 
+    "isDeleted" : false, 
+    "deletedAt" : null, 
+    "status" : NumberInt(1), 
+    "extension" : [
+        ".pdf", 
+        ".jpg", 
+        ".doc", 
+        ".docx"
+    ], 
+    "type" : "Staff", 
+    "documentType" : "Single", 
+    "title" : "Secondary Document", 
+    "registration_group_id" : ObjectId("60dea0ddc627472f1de142c3"), 
+    "description" : "<h2>What is Lorem Ipsum?</h2>\n\n<p><strong>Lorem Ipsum</strong>&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#39;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>\n\n<p>&nbsp;</p>\n\n<h2>What is Lorem Ipsum?</h2>\n\n<p><strong>Lorem Ipsum</strong>&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#39;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>\n", 
+    "created_at" : ISODate("2021-07-30T06:32:03.237+0000"), 
+    "updated_at" : ISODate("2021-07-30T10:19:44.350+0000"), 
+    "slug" : "secondary-document", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("61039cec41186d38042248ab"), 
+    "isDeleted" : false, 
+    "deletedAt" : null, 
+    "status" : NumberInt(1), 
+    "extension" : [
+        ".pdf", 
+        ".jpg", 
+        ".doc", 
+        ".docx"
+    ], 
+    "type" : "Staff", 
+    "documentType" : "Multiple", 
+    "title" : "Primary document", 
+    "registration_group_id" : ObjectId("60dea0ddc627472f1de142c3"), 
+    "description" : "<h2>What is Lorem Ipsum?</h2>\n\n<p><strong>Lorem Ipsum</strong>&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#39;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>\n", 
+    "created_at" : ISODate("2021-07-30T06:32:12.321+0000"), 
+    "updated_at" : ISODate("2021-07-30T10:19:33.206+0000"), 
+    "slug" : "primary-document", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("61039d0941186d38042248b7"), 
+    "isDeleted" : false, 
+    "deletedAt" : null, 
+    "status" : NumberInt(1), 
+    "extension" : [
+        ".pdf", 
+        ".jpg", 
+        ".doc", 
+        ".docx"
+    ], 
+    "type" : "Company", 
+    "documentType" : "Multiple", 
+    "title" : "Several documents possible", 
+    "registration_group_id" : ObjectId("6092895134bd1a52e459db15"), 
+    "description" : "<p>Several documents possible</p>\n", 
+    "created_at" : ISODate("2021-07-30T06:32:41.523+0000"), 
+    "updated_at" : ISODate("2021-07-30T06:32:41.523+0000"), 
+    "slug" : "several-documents-possible", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("61039d1341186d38042248bb"), 
+    "isDeleted" : false, 
+    "deletedAt" : null, 
+    "status" : NumberInt(1), 
+    "extension" : [
+        ".pdf", 
+        ".jpg", 
+        ".doc", 
+        ".docx"
+    ], 
+    "type" : "Company", 
+    "documentType" : "Single", 
+    "title" : "Specific Qualification", 
+    "registration_group_id" : ObjectId("6092895134bd1a52e459db15"), 
+    "description" : "<p>Specific Qualification</p>\n", 
+    "created_at" : ISODate("2021-07-30T06:32:51.903+0000"), 
+    "updated_at" : ISODate("2021-07-30T06:32:51.903+0000"), 
+    "slug" : "specific-qualification", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("61039d8441186d38042248d9"), 
+    "isDeleted" : false, 
+    "deletedAt" : null, 
+    "status" : NumberInt(1), 
+    "extension" : [
+        ".pdf", 
+        ".jpg", 
+        ".doc", 
+        ".docx"
+    ], 
+    "type" : "Company", 
+    "documentType" : "Single", 
+    "title" : "Professional Indemnity Insurance", 
+    "registration_group_id" : ObjectId("6092894434bd1a52e459db13"), 
+    "description" : "<p>Professional Indemnity Insurance</p>\n", 
+    "created_at" : ISODate("2021-07-30T06:34:44.941+0000"), 
+    "updated_at" : ISODate("2021-07-30T06:34:44.941+0000"), 
+    "slug" : "professional-indemnity-insurance", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("61039d9241186d38042248dd"), 
+    "isDeleted" : false, 
+    "deletedAt" : null, 
+    "status" : NumberInt(1), 
+    "extension" : [
+        ".pdf", 
+        ".jpg", 
+        ".doc", 
+        ".docx"
+    ], 
+    "type" : "Company", 
+    "documentType" : "Multiple", 
+    "title" : "Public Liability Insurance", 
+    "registration_group_id" : ObjectId("6092894434bd1a52e459db13"), 
+    "description" : "<p>Public Liability Insurance</p>\n", 
+    "created_at" : ISODate("2021-07-30T06:34:58.299+0000"), 
+    "updated_at" : ISODate("2021-07-30T06:34:58.299+0000"), 
+    "slug" : "public-liability-insurance", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("61039d9d41186d38042248e1"), 
+    "isDeleted" : false, 
+    "deletedAt" : null, 
+    "status" : NumberInt(1), 
+    "extension" : [
+        ".pdf", 
+        ".jpg", 
+        ".doc", 
+        ".docx"
+    ], 
+    "type" : "Company", 
+    "documentType" : "Multiple", 
+    "title" : "Risk Management", 
+    "registration_group_id" : ObjectId("6092894434bd1a52e459db13"), 
+    "description" : "<p>We often send out our newsletter with news and great offers. We will never disclose your data to third parties and you can unsubscribe from the newsletter at any time.&nbsp;<a href=\"https://loremnotipsum.com/about/newsletter/\">Subscribe here</a>&nbsp;to our newsletter.</p>\n\n<p>We often send out our newsletter with news and great offers. We will never disclose your data to third parties and you can unsubscribe from the newsletter at any time.&nbsp;<a href=\"https://loremnotipsum.com/about/newsletter/\">Subscribe here</a>&nbsp;to our newsletter.</p>\n\n<p>We often send out our newsletter with news and great offers. We will never disclose your data to third parties and you can unsubscribe from the newsletter at any time.&nbsp;<a href=\"https://loremnotipsum.com/about/newsletter/\">Subscribe here</a>&nbsp;to our newsletter.</p>\n\n<p>We often send out our newsletter with news and great offers. We will never disclose your data to third parties and you can unsubscribe from the newsletter at any time.&nbsp;<a href=\"https://loremnotipsum.com/about/newsletter/\">Subscribe here</a>&nbsp;to our newsletter.</p>\n", 
+    "created_at" : ISODate("2021-07-30T06:35:09.785+0000"), 
+    "updated_at" : ISODate("2021-07-30T10:21:15.586+0000"), 
+    "slug" : "risk-management", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("61039da641186d38042248e5"), 
+    "isDeleted" : false, 
+    "deletedAt" : null, 
+    "status" : NumberInt(1), 
+    "extension" : [
+        ".pdf", 
+        ".jpg", 
+        ".doc", 
+        ".docx"
+    ], 
+    "type" : "Staff", 
+    "documentType" : "Multiple", 
+    "title" : "Complaints Management", 
+    "registration_group_id" : ObjectId("6092894434bd1a52e459db13"), 
+    "description" : "<p>We often send out our newsletter with news and great offers. We will never disclose your data to third parties and you can unsubscribe from the newsletter at any time.&nbsp;<a href=\"https://loremnotipsum.com/about/newsletter/\">Subscribe here</a>&nbsp;to our newsletter.</p>\n\n<p>We often send out our newsletter with news and great offers. We will never disclose your data to third parties and you can unsubscribe from the newsletter at any time.&nbsp;<a href=\"https://loremnotipsum.com/about/newsletter/\">Subscribe here</a>&nbsp;to our newsletter.</p>\n\n<p>We often send out our newsletter with news and great offers. We will never disclose your data to third parties and you can unsubscribe from the newsletter at any time.&nbsp;<a href=\"https://loremnotipsum.com/about/newsletter/\">Subscribe here</a>&nbsp;to our newsletter.</p>\n", 
+    "created_at" : ISODate("2021-07-30T06:35:18.915+0000"), 
+    "updated_at" : ISODate("2021-07-30T10:21:04.920+0000"), 
+    "slug" : "complaints-management", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("61039db241186d38042248e9"), 
+    "isDeleted" : false, 
+    "deletedAt" : null, 
+    "status" : NumberInt(1), 
+    "extension" : [
+        ".pdf", 
+        ".jpg", 
+        ".doc", 
+        ".docx"
+    ], 
+    "type" : "Staff", 
+    "documentType" : "Single", 
+    "title" : "Incident Management", 
+    "registration_group_id" : ObjectId("6092894434bd1a52e459db13"), 
+    "description" : "<p>We often send out our newsletter with news and great offers. We will never disclose your data to third parties and you can unsubscribe from the newsletter at any time.&nbsp;<a href=\"https://loremnotipsum.com/about/newsletter/\">Subscribe here</a>&nbsp;to our newsletter.</p>\n\n<p>We often send out our newsletter with news and great offers. We will never disclose your data to third parties and you can unsubscribe from the newsletter at any time.&nbsp;<a href=\"https://loremnotipsum.com/about/newsletter/\">Subscribe here</a>&nbsp;to our newsletter.</p>\n", 
+    "created_at" : ISODate("2021-07-30T06:35:30.051+0000"), 
+    "updated_at" : ISODate("2021-07-30T10:20:56.086+0000"), 
+    "slug" : "incident-management", 
+    "__v" : NumberInt(0)
+}

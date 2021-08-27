@@ -1,0 +1,35 @@
+{ 
+    "_id" : ObjectId("60ddccd0c627472f1de141c5"), 
+    "type" : "VERIFICATION", 
+    "registration_group" : [
+        {
+            "_id" : "6092894434bd1a52e459db13", 
+            "title" : "0101 Accommodation / Tenancy Assistance"
+        }, 
+        {
+            "_id" : "6092895134bd1a52e459db15", 
+            "title" : "0105 Personal mobility equipment "
+        }
+    ], 
+    "status_view" : "SLAUPLOADED", 
+    "status" : "SLAUPLOADED", 
+    "isPayment" : NumberInt(0), 
+    "title" : "Fugit lorem sint se", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "audit_number" : "78559773", 
+    "size_of_company" : NumberInt(100), 
+    "number_of_clients" : NumberInt(152), 
+    "remarks" : "Exercitationem ipsam, Exercitationem ipsam, Exercitationem ipsam", 
+    "amount" : NumberInt(150000), 
+    "invoice_number" : 830004582215.0, 
+    "sla_document_name" : "Logo Guide Outline.pdf", 
+    "sla_document" : "1625148624761.pdf", 
+    "sla_document_old" : "1625148624761.pdf", 
+    "invoice_document_name" : "Proposal Document _Audit Company_Website Application_Octal_V3[1].pdf", 
+    "invoice_document" : "1625148624765.pdf", 
+    "invoice_document_old" : "1625148624765.pdf", 
+    "created_at" : ISODate("2021-07-01T14:10:24.767+0000"), 
+    "updated_at" : ISODate("2021-07-01T14:10:24.767+0000"), 
+    "slug" : "fugit-lorem-sint-se", 
+    "__v" : NumberInt(0)
+}

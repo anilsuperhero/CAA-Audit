@@ -1,0 +1,439 @@
+{ 
+    "_id" : ObjectId("61039d0941186d38042248b7"), 
+    "isDeleted" : false, 
+    "deletedAt" : null, 
+    "status" : NumberInt(1), 
+    "extension" : [
+        ".pdf", 
+        ".jpg", 
+        ".doc", 
+        ".docx"
+    ], 
+    "type" : "Company", 
+    "documentType" : "Multiple", 
+    "title" : "Several documents possible", 
+    "registration_group_id" : ObjectId("6092895134bd1a52e459db15"), 
+    "description" : "<p>Several documents possible</p>\n", 
+    "created_at" : ISODate("2021-07-30T06:32:41.523+0000"), 
+    "updated_at" : ISODate("2021-07-30T06:32:41.523+0000"), 
+    "slug" : "several-documents-possible", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("61039d1341186d38042248bb"), 
+    "isDeleted" : false, 
+    "deletedAt" : null, 
+    "status" : NumberInt(1), 
+    "extension" : [
+        ".pdf", 
+        ".jpg", 
+        ".doc", 
+        ".docx"
+    ], 
+    "type" : "Company", 
+    "documentType" : "Single", 
+    "title" : "Specific Qualification", 
+    "registration_group_id" : ObjectId("6092895134bd1a52e459db15"), 
+    "description" : "<p>Specific Qualification</p>\n", 
+    "created_at" : ISODate("2021-07-30T06:32:51.903+0000"), 
+    "updated_at" : ISODate("2021-07-30T06:32:51.903+0000"), 
+    "slug" : "specific-qualification", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("610cde319956274d7c03c06e"), 
+    "status" : NumberInt(1), 
+    "extension" : [
+        ".pdf", 
+        ".jpg", 
+        ".doc", 
+        ".docx"
+    ], 
+    "type" : "Staff", 
+    "documentType" : "Multiple", 
+    "title" : "Primary ID Document", 
+    "registration_group_id" : ObjectId("610b71929956274d7c03bfef"), 
+    "created_at" : ISODate("2021-08-06T07:01:05.262+0000"), 
+    "updated_at" : ISODate("2021-08-06T07:01:05.262+0000"), 
+    "slug" : "primary-id-document", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("610cde419956274d7c03c072"), 
+    "status" : NumberInt(1), 
+    "extension" : [
+        ".pdf", 
+        ".jpg", 
+        ".doc", 
+        ".docx"
+    ], 
+    "type" : "Staff", 
+    "documentType" : "Multiple", 
+    "title" : "Secondary ID Document", 
+    "registration_group_id" : ObjectId("610b71929956274d7c03bfef"), 
+    "created_at" : ISODate("2021-08-06T07:01:21.702+0000"), 
+    "updated_at" : ISODate("2021-08-06T07:01:21.702+0000"), 
+    "slug" : "secondary-id-document", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("610cde9b9956274d7c03c084"), 
+    "status" : NumberInt(1), 
+    "extension" : [
+        ".pdf", 
+        ".jpg", 
+        ".doc", 
+        ".docx"
+    ], 
+    "type" : "Company", 
+    "documentType" : "Multiple", 
+    "title" : "Evidence of HR Management", 
+    "registration_group_id" : ObjectId("60dea0ddc627472f1de142c3"), 
+    "created_at" : ISODate("2021-08-06T07:02:51.442+0000"), 
+    "updated_at" : ISODate("2021-08-06T07:02:59.229+0000"), 
+    "slug" : "evidence-of-hr-management", 
+    "__v" : NumberInt(0), 
+    "description" : null
+}
+{ 
+    "_id" : ObjectId("610cdec19956274d7c03c08e"), 
+    "status" : NumberInt(1), 
+    "extension" : [
+        ".pdf", 
+        ".jpg", 
+        ".doc", 
+        ".docx"
+    ], 
+    "type" : "Company", 
+    "documentType" : "Multiple", 
+    "title" : "Evidence of Incident Management", 
+    "registration_group_id" : ObjectId("60dea0ddc627472f1de142c3"), 
+    "created_at" : ISODate("2021-08-06T07:03:29.031+0000"), 
+    "updated_at" : ISODate("2021-08-06T07:03:29.031+0000"), 
+    "slug" : "evidence-of-incident-management", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("610cded59956274d7c03c092"), 
+    "status" : NumberInt(1), 
+    "extension" : [
+        ".pdf", 
+        ".jpg", 
+        ".doc", 
+        ".docx"
+    ], 
+    "type" : "Company", 
+    "documentType" : "Multiple", 
+    "title" : "Evidence of Complaints Management", 
+    "registration_group_id" : ObjectId("60dea0ddc627472f1de142c3"), 
+    "created_at" : ISODate("2021-08-06T07:03:49.107+0000"), 
+    "updated_at" : ISODate("2021-08-06T07:03:49.107+0000"), 
+    "slug" : "evidence-of-complaints-management", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("610cdee99956274d7c03c096"), 
+    "status" : NumberInt(1), 
+    "extension" : [
+        ".pdf", 
+        ".jpg", 
+        ".doc", 
+        ".docx"
+    ], 
+    "type" : "Company", 
+    "documentType" : "Multiple", 
+    "title" : "Evidence of Risk Management", 
+    "registration_group_id" : ObjectId("60dea0ddc627472f1de142c3"), 
+    "created_at" : ISODate("2021-08-06T07:04:09.847+0000"), 
+    "updated_at" : ISODate("2021-08-06T07:04:09.847+0000"), 
+    "slug" : "evidence-of-risk-management", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("610cdf179956274d7c03c0a2"), 
+    "status" : NumberInt(1), 
+    "extension" : [
+        ".pdf", 
+        ".jpg", 
+        ".doc", 
+        ".docx"
+    ], 
+    "type" : "Staff", 
+    "documentType" : "Multiple", 
+    "title" : "Working with children", 
+    "registration_group_id" : ObjectId("610cdf039956274d7c03c09c"), 
+    "created_at" : ISODate("2021-08-06T07:04:55.423+0000"), 
+    "updated_at" : ISODate("2021-08-06T07:04:55.423+0000"), 
+    "slug" : "working-with-children", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("610cdf239956274d7c03c0a6"), 
+    "status" : NumberInt(1), 
+    "extension" : [
+        ".pdf", 
+        ".jpg", 
+        ".doc", 
+        ".docx"
+    ], 
+    "type" : "Staff", 
+    "documentType" : "Multiple", 
+    "title" : "Police Check", 
+    "registration_group_id" : ObjectId("610cdf039956274d7c03c09c"), 
+    "created_at" : ISODate("2021-08-06T07:05:07.277+0000"), 
+    "updated_at" : ISODate("2021-08-06T07:05:07.277+0000"), 
+    "slug" : "police-check", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("610cdf389956274d7c03c0aa"), 
+    "status" : NumberInt(1), 
+    "extension" : [
+        ".pdf", 
+        ".jpg", 
+        ".doc", 
+        ".docx"
+    ], 
+    "type" : "Staff", 
+    "documentType" : "Multiple", 
+    "title" : "Right to work in Australia", 
+    "registration_group_id" : ObjectId("610cdf039956274d7c03c09c"), 
+    "created_at" : ISODate("2021-08-06T07:05:28.439+0000"), 
+    "updated_at" : ISODate("2021-08-06T07:05:28.439+0000"), 
+    "slug" : "right-to-work-in-australia", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("610cdf4f9956274d7c03c0ae"), 
+    "status" : NumberInt(1), 
+    "extension" : [
+        ".pdf", 
+        ".jpg", 
+        ".doc", 
+        ".docx"
+    ], 
+    "type" : "Staff", 
+    "documentType" : "Multiple", 
+    "title" : "NDIS Worker Screen", 
+    "registration_group_id" : ObjectId("610cdf039956274d7c03c09c"), 
+    "created_at" : ISODate("2021-08-06T07:05:51.915+0000"), 
+    "updated_at" : ISODate("2021-08-06T07:05:51.915+0000"), 
+    "slug" : "ndis-worker-screen", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("610cdfb09956274d7c03c0ca"), 
+    "status" : NumberInt(1), 
+    "extension" : [
+        ".pdf", 
+        ".jpg", 
+        ".doc", 
+        ".docx"
+    ], 
+    "type" : "Company", 
+    "documentType" : "Multiple", 
+    "title" : "Insurances", 
+    "registration_group_id" : ObjectId("610cdf039956274d7c03c09c"), 
+    "created_at" : ISODate("2021-08-06T07:07:28.283+0000"), 
+    "updated_at" : ISODate("2021-08-06T07:07:28.283+0000"), 
+    "slug" : "insurances", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("610ce0059956274d7c03c0e8"), 
+    "status" : NumberInt(1), 
+    "extension" : [
+        ".pdf", 
+        ".jpg", 
+        ".doc", 
+        ".docx"
+    ], 
+    "type" : "Staff", 
+    "documentType" : "Multiple", 
+    "title" : "Specific Qualification for Tenancy & Accommodation Assistance", 
+    "registration_group_id" : ObjectId("6092894434bd1a52e459db13"), 
+    "created_at" : ISODate("2021-08-06T07:08:53.986+0000"), 
+    "updated_at" : ISODate("2021-08-06T07:08:53.986+0000"), 
+    "slug" : "specific-qualification-for-tenancy-and-accommodation-assistance", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("610d471162d3a3294ca91e62"), 
+    "status" : NumberInt(1), 
+    "extension" : [
+        ".pdf", 
+        ".jpg", 
+        ".doc", 
+        ".docx"
+    ], 
+    "type" : "Company", 
+    "documentType" : "Single", 
+    "title" : "test01", 
+    "registration_group_id" : ObjectId("60928a1634bd1a52e459db27"), 
+    "created_at" : ISODate("2021-08-06T14:28:33.131+0000"), 
+    "updated_at" : ISODate("2021-08-06T14:28:33.131+0000"), 
+    "slug" : "test01", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("610d471862d3a3294ca91e66"), 
+    "status" : NumberInt(1), 
+    "extension" : [
+        ".pdf", 
+        ".jpg", 
+        ".doc", 
+        ".docx"
+    ], 
+    "type" : "Company", 
+    "documentType" : "Single", 
+    "title" : "test02", 
+    "registration_group_id" : ObjectId("60928a1634bd1a52e459db27"), 
+    "created_at" : ISODate("2021-08-06T14:28:40.134+0000"), 
+    "updated_at" : ISODate("2021-08-06T14:28:40.134+0000"), 
+    "slug" : "test02", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("610d471c62d3a3294ca91e6a"), 
+    "status" : NumberInt(1), 
+    "extension" : [
+        ".pdf", 
+        ".jpg", 
+        ".doc", 
+        ".docx"
+    ], 
+    "type" : "Company", 
+    "documentType" : "Single", 
+    "title" : "test03", 
+    "registration_group_id" : ObjectId("60928a1634bd1a52e459db27"), 
+    "created_at" : ISODate("2021-08-06T14:28:44.452+0000"), 
+    "updated_at" : ISODate("2021-08-06T14:28:44.452+0000"), 
+    "slug" : "test03", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("610d472262d3a3294ca91e6e"), 
+    "status" : NumberInt(1), 
+    "extension" : [
+        ".pdf", 
+        ".jpg", 
+        ".doc", 
+        ".docx"
+    ], 
+    "type" : "Company", 
+    "documentType" : "Single", 
+    "title" : "ttest04", 
+    "registration_group_id" : ObjectId("60928a1634bd1a52e459db27"), 
+    "created_at" : ISODate("2021-08-06T14:28:50.714+0000"), 
+    "updated_at" : ISODate("2021-08-06T14:28:50.714+0000"), 
+    "slug" : "ttest04", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("610d472762d3a3294ca91e72"), 
+    "status" : NumberInt(1), 
+    "extension" : [
+        ".pdf", 
+        ".jpg", 
+        ".doc", 
+        ".docx"
+    ], 
+    "type" : "Company", 
+    "documentType" : "Single", 
+    "title" : "test05", 
+    "registration_group_id" : ObjectId("60928a1634bd1a52e459db27"), 
+    "created_at" : ISODate("2021-08-06T14:28:55.894+0000"), 
+    "updated_at" : ISODate("2021-08-06T14:28:55.894+0000"), 
+    "slug" : "test05", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("610d472d62d3a3294ca91e76"), 
+    "status" : NumberInt(1), 
+    "extension" : [
+        ".pdf", 
+        ".jpg", 
+        ".doc", 
+        ".docx"
+    ], 
+    "type" : "Staff", 
+    "documentType" : "Single", 
+    "title" : "test06", 
+    "registration_group_id" : ObjectId("60928a1634bd1a52e459db27"), 
+    "created_at" : ISODate("2021-08-06T14:29:01.569+0000"), 
+    "updated_at" : ISODate("2021-08-06T14:29:01.569+0000"), 
+    "slug" : "test06", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("610d473362d3a3294ca91e7a"), 
+    "status" : NumberInt(1), 
+    "extension" : [
+        ".pdf", 
+        ".jpg", 
+        ".doc", 
+        ".docx"
+    ], 
+    "type" : "Staff", 
+    "documentType" : "Single", 
+    "title" : "test07", 
+    "registration_group_id" : ObjectId("60928a1634bd1a52e459db27"), 
+    "created_at" : ISODate("2021-08-06T14:29:07.413+0000"), 
+    "updated_at" : ISODate("2021-08-06T14:29:07.413+0000"), 
+    "slug" : "test07", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("610d473862d3a3294ca91e7e"), 
+    "status" : NumberInt(1), 
+    "extension" : [
+        ".pdf", 
+        ".jpg", 
+        ".doc", 
+        ".docx"
+    ], 
+    "type" : "Staff", 
+    "documentType" : "Single", 
+    "title" : "test08", 
+    "registration_group_id" : ObjectId("60928a1634bd1a52e459db27"), 
+    "created_at" : ISODate("2021-08-06T14:29:12.701+0000"), 
+    "updated_at" : ISODate("2021-08-06T14:29:12.701+0000"), 
+    "slug" : "test08", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("610d473f62d3a3294ca91e82"), 
+    "status" : NumberInt(1), 
+    "extension" : [
+        ".pdf", 
+        ".jpg", 
+        ".doc", 
+        ".docx"
+    ], 
+    "type" : "Staff", 
+    "documentType" : "Single", 
+    "title" : "test09", 
+    "registration_group_id" : ObjectId("60928a1634bd1a52e459db27"), 
+    "created_at" : ISODate("2021-08-06T14:29:19.688+0000"), 
+    "updated_at" : ISODate("2021-08-06T14:29:19.688+0000"), 
+    "slug" : "test09", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("610d474562d3a3294ca91e86"), 
+    "status" : NumberInt(1), 
+    "extension" : [
+        ".pdf", 
+        ".jpg", 
+        ".doc", 
+        ".docx"
+    ], 
+    "type" : "Staff", 
+    "documentType" : "Single", 
+    "title" : "test10", 
+    "registration_group_id" : ObjectId("60928a1634bd1a52e459db27"), 
+    "created_at" : ISODate("2021-08-06T14:29:25.690+0000"), 
+    "updated_at" : ISODate("2021-08-06T14:29:25.690+0000"), 
+    "slug" : "test10", 
+    "__v" : NumberInt(0)
+}

@@ -1,0 +1,303 @@
+{ 
+    "_id" : ObjectId("60effd89ba058f37d80c18e7"), 
+    "isDeleted" : false, 
+    "deletedAt" : null, 
+    "status" : NumberInt(1), 
+    "extension" : [
+        ".pdf", 
+        ".jpg", 
+        ".doc", 
+        ".docx"
+    ], 
+    "type" : "Staff", 
+    "documentType" : "Single", 
+    "isIdDocument" : false, 
+    "id_document_type" : "Primary", 
+    "title" : "Incident Management", 
+    "registration_group_id" : ObjectId("6092894434bd1a52e459db13"), 
+    "created_at" : ISODate("2021-07-15T09:19:05.700+0000"), 
+    "updated_at" : ISODate("2021-07-15T11:32:57.390+0000"), 
+    "slug" : "incident-management", 
+    "__v" : NumberInt(0), 
+    "description" : null
+}
+{ 
+    "_id" : ObjectId("60effe5be869381b44249437"), 
+    "isDeleted" : false, 
+    "deletedAt" : null, 
+    "status" : NumberInt(1), 
+    "extension" : [
+        ".pdf", 
+        ".jpg", 
+        ".doc", 
+        ".docx"
+    ], 
+    "type" : "Staff", 
+    "documentType" : "Multiple", 
+    "isIdDocument" : false, 
+    "id_document_type" : "Primary", 
+    "title" : "Complaints Management", 
+    "registration_group_id" : ObjectId("6092894434bd1a52e459db13"), 
+    "created_at" : ISODate("2021-07-15T09:22:35.254+0000"), 
+    "updated_at" : ISODate("2021-07-22T05:20:18.018+0000"), 
+    "slug" : "complaints-management", 
+    "__v" : NumberInt(0), 
+    "description" : null
+}
+{ 
+    "_id" : ObjectId("60effe63e869381b4424943b"), 
+    "isDeleted" : false, 
+    "deletedAt" : null, 
+    "status" : NumberInt(1), 
+    "extension" : [
+        ".pdf", 
+        ".jpg", 
+        ".doc", 
+        ".docx"
+    ], 
+    "type" : "Company", 
+    "documentType" : "Multiple", 
+    "isIdDocument" : false, 
+    "id_document_type" : "Primary", 
+    "title" : "Risk Management", 
+    "registration_group_id" : ObjectId("6092894434bd1a52e459db13"), 
+    "created_at" : ISODate("2021-07-15T09:22:43.392+0000"), 
+    "updated_at" : ISODate("2021-07-15T09:22:43.392+0000"), 
+    "slug" : "risk-management", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60effe6de869381b44249441"), 
+    "isDeleted" : false, 
+    "deletedAt" : null, 
+    "status" : NumberInt(1), 
+    "extension" : [
+        ".pdf", 
+        ".jpg", 
+        ".doc", 
+        ".docx"
+    ], 
+    "type" : "Company", 
+    "documentType" : "Single", 
+    "isIdDocument" : false, 
+    "id_document_type" : "Primary", 
+    "title" : "Public Liability Insurance", 
+    "registration_group_id" : ObjectId("6092894434bd1a52e459db13"), 
+    "created_at" : ISODate("2021-07-15T09:22:53.062+0000"), 
+    "updated_at" : ISODate("2021-07-15T09:22:53.062+0000"), 
+    "slug" : "public-liability-insurance", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60effe77e869381b44249445"), 
+    "isDeleted" : false, 
+    "deletedAt" : null, 
+    "status" : NumberInt(1), 
+    "extension" : [
+        ".pdf", 
+        ".jpg", 
+        ".doc", 
+        ".docx"
+    ], 
+    "type" : "Company", 
+    "documentType" : "Single", 
+    "isIdDocument" : false, 
+    "id_document_type" : "Primary", 
+    "title" : "Professional Indemnity Insurance", 
+    "registration_group_id" : ObjectId("6092894434bd1a52e459db13"), 
+    "created_at" : ISODate("2021-07-15T09:23:03.694+0000"), 
+    "updated_at" : ISODate("2021-07-15T09:23:03.694+0000"), 
+    "slug" : "professional-indemnity-insurance", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60effe88e869381b4424944f"), 
+    "isDeleted" : false, 
+    "deletedAt" : null, 
+    "status" : NumberInt(1), 
+    "extension" : [
+        ".pdf", 
+        ".jpg", 
+        ".doc", 
+        ".docx"
+    ], 
+    "type" : "Staff", 
+    "documentType" : "Single", 
+    "isIdDocument" : false, 
+    "id_document_type" : "Primary", 
+    "title" : "Several documents possible", 
+    "registration_group_id" : ObjectId("6092894b34bd1a52e459db14"), 
+    "created_at" : ISODate("2021-07-15T09:23:20.167+0000"), 
+    "updated_at" : ISODate("2021-07-16T05:23:08.427+0000"), 
+    "slug" : "several-documents-possible", 
+    "__v" : NumberInt(0), 
+    "description" : null
+}
+{ 
+    "_id" : ObjectId("60effe91e869381b44249453"), 
+    "isDeleted" : false, 
+    "deletedAt" : null, 
+    "status" : NumberInt(1), 
+    "extension" : [
+        ".pdf", 
+        ".jpg", 
+        ".doc", 
+        ".docx"
+    ], 
+    "type" : "Company", 
+    "documentType" : "Single", 
+    "isIdDocument" : false, 
+    "id_document_type" : "Primary", 
+    "title" : "Specific Qualification", 
+    "registration_group_id" : ObjectId("6092894b34bd1a52e459db14"), 
+    "created_at" : ISODate("2021-07-15T09:23:29.089+0000"), 
+    "updated_at" : ISODate("2021-07-15T09:23:29.089+0000"), 
+    "slug" : "specific-qualification", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60effeb1e869381b4424945f"), 
+    "isDeleted" : false, 
+    "deletedAt" : null, 
+    "status" : NumberInt(1), 
+    "extension" : [
+        ".pdf", 
+        ".jpg", 
+        ".doc", 
+        ".docx"
+    ], 
+    "type" : "Company", 
+    "documentType" : "Single", 
+    "isIdDocument" : false, 
+    "id_document_type" : "Primary", 
+    "title" : "Specific Qualification", 
+    "registration_group_id" : ObjectId("6092895134bd1a52e459db15"), 
+    "created_at" : ISODate("2021-07-15T09:24:01.233+0000"), 
+    "updated_at" : ISODate("2021-07-15T09:24:01.233+0000"), 
+    "slug" : "specific-qualification", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60effed4e869381b44249465"), 
+    "isDeleted" : false, 
+    "deletedAt" : null, 
+    "status" : NumberInt(1), 
+    "extension" : [
+        ".pdf", 
+        ".jpg", 
+        ".doc", 
+        ".docx"
+    ], 
+    "documentType" : "Single", 
+    "isIdDocument" : true, 
+    "id_document_type" : "Primary", 
+    "title" : "Id Proof", 
+    "created_at" : ISODate("2021-07-15T09:24:36.755+0000"), 
+    "updated_at" : ISODate("2021-07-15T09:24:36.755+0000"), 
+    "slug" : "id-proof", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60effeeee869381b44249469"), 
+    "isDeleted" : false, 
+    "deletedAt" : null, 
+    "status" : NumberInt(1), 
+    "extension" : [
+        ".pdf", 
+        ".jpg", 
+        ".doc", 
+        ".docx"
+    ], 
+    "documentType" : "Single", 
+    "isIdDocument" : true, 
+    "id_document_type" : "Primary", 
+    "title" : "Qualification", 
+    "created_at" : ISODate("2021-07-15T09:25:02.924+0000"), 
+    "updated_at" : ISODate("2021-07-15T09:25:02.924+0000"), 
+    "slug" : "qualification", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60effef7e869381b4424946d"), 
+    "isDeleted" : false, 
+    "deletedAt" : null, 
+    "status" : NumberInt(1), 
+    "extension" : [
+        ".pdf", 
+        ".jpg", 
+        ".doc", 
+        ".docx"
+    ], 
+    "documentType" : "Single", 
+    "isIdDocument" : true, 
+    "id_document_type" : "Primary", 
+    "title" : "Passport", 
+    "created_at" : ISODate("2021-07-15T09:25:11.383+0000"), 
+    "updated_at" : ISODate("2021-07-15T09:25:11.383+0000"), 
+    "slug" : "passport", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60efff1be869381b44249471"), 
+    "isDeleted" : false, 
+    "deletedAt" : null, 
+    "status" : NumberInt(1), 
+    "extension" : [
+        ".pdf", 
+        ".jpg", 
+        ".doc", 
+        ".docx"
+    ], 
+    "documentType" : "Single", 
+    "isIdDocument" : true, 
+    "id_document_type" : "Secondary", 
+    "title" : "Address Proof", 
+    "created_at" : ISODate("2021-07-15T09:25:47.558+0000"), 
+    "updated_at" : ISODate("2021-07-15T09:25:54.697+0000"), 
+    "slug" : "address-proof", 
+    "__v" : NumberInt(0), 
+    "description" : null, 
+    "type" : null
+}
+{ 
+    "_id" : ObjectId("60efff3fe869381b4424947b"), 
+    "isDeleted" : false, 
+    "deletedAt" : null, 
+    "status" : NumberInt(1), 
+    "extension" : [
+        ".pdf", 
+        ".jpg", 
+        ".doc", 
+        ".docx"
+    ], 
+    "documentType" : "Single", 
+    "isIdDocument" : true, 
+    "id_document_type" : "Primary", 
+    "title" : "Salary Slip", 
+    "created_at" : ISODate("2021-07-15T09:26:23.995+0000"), 
+    "updated_at" : ISODate("2021-07-15T09:26:23.995+0000"), 
+    "slug" : "salary-slip", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60f117d14efaef0f7ccbb986"), 
+    "isDeleted" : false, 
+    "deletedAt" : null, 
+    "status" : NumberInt(1), 
+    "extension" : [
+        ".pdf", 
+        ".jpg", 
+        ".doc", 
+        ".docx"
+    ], 
+    "type" : "Staff", 
+    "documentType" : "Single", 
+    "isIdDocument" : false, 
+    "id_document_type" : "Primary", 
+    "title" : "Several documents possible", 
+    "registration_group_id" : ObjectId("6092895134bd1a52e459db15"), 
+    "created_at" : ISODate("2021-07-16T05:23:29.044+0000"), 
+    "updated_at" : ISODate("2021-07-16T05:23:29.044+0000"), 
+    "slug" : "several-documents-possible", 
+    "__v" : NumberInt(0)
+}

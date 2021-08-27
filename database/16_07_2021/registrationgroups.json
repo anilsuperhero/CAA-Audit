@@ -1,0 +1,297 @@
+{ 
+    "_id" : ObjectId("6092894434bd1a52e459db13"), 
+    "isDeleted" : false, 
+    "deletedAt" : null, 
+    "status" : NumberInt(1), 
+    "title" : "0101 Accommodation / Tenancy Assistance", 
+    "created_at" : ISODate("2021-05-05T12:02:12.876+0000"), 
+    "updated_at" : ISODate("2021-07-13T06:51:29.597+0000"), 
+    "slug" : "0101-accommodation-tenancy-assistance", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("6092894b34bd1a52e459db14"), 
+    "isDeleted" : false, 
+    "deletedAt" : null, 
+    "status" : NumberInt(1), 
+    "title" : "0103 Assistive Products for Personal Care and Safety", 
+    "created_at" : ISODate("2021-05-05T12:02:19.256+0000"), 
+    "updated_at" : ISODate("2021-05-05T12:02:19.256+0000"), 
+    "slug" : "0103-assistive-products-for-personal-care-and-safety", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("6092895134bd1a52e459db15"), 
+    "isDeleted" : false, 
+    "deletedAt" : null, 
+    "status" : NumberInt(1), 
+    "title" : "0105 Personal mobility equipment ", 
+    "created_at" : ISODate("2021-05-05T12:02:25.753+0000"), 
+    "updated_at" : ISODate("2021-05-05T12:02:25.753+0000"), 
+    "slug" : "0105-personal-mobility-equipment", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("6092895934bd1a52e459db16"), 
+    "isDeleted" : false, 
+    "deletedAt" : null, 
+    "status" : NumberInt(1), 
+    "title" : "0108 Assistance with Travel/Transport Arrangements", 
+    "created_at" : ISODate("2021-05-05T12:02:33.180+0000"), 
+    "updated_at" : ISODate("2021-05-05T12:02:33.180+0000"), 
+    "slug" : "0108-assistance-with-travel-transport-arrangements", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("6092896334bd1a52e459db17"), 
+    "isDeleted" : false, 
+    "deletedAt" : null, 
+    "status" : NumberInt(1), 
+    "title" : "0109 Vehicle Modifications", 
+    "created_at" : ISODate("2021-05-05T12:02:43.379+0000"), 
+    "updated_at" : ISODate("2021-05-05T12:02:43.379+0000"), 
+    "slug" : "0109-vehicle-modifications", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("6092896a34bd1a52e459db18"), 
+    "isDeleted" : false, 
+    "deletedAt" : null, 
+    "status" : NumberInt(1), 
+    "title" : "0111 Home Modification", 
+    "created_at" : ISODate("2021-05-05T12:02:50.578+0000"), 
+    "updated_at" : ISODate("2021-07-16T10:58:11.844+0000"), 
+    "slug" : "0111-home-modification", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("6092897634bd1a52e459db19"), 
+    "isDeleted" : false, 
+    "deletedAt" : null, 
+    "status" : NumberInt(1), 
+    "title" : "0112 Assistive Equipment for Recreation ", 
+    "created_at" : ISODate("2021-05-05T12:03:02.109+0000"), 
+    "updated_at" : ISODate("2021-05-05T12:03:02.109+0000"), 
+    "slug" : "0112-assistive-equipment-for-recreation", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("6092897e34bd1a52e459db1a"), 
+    "isDeleted" : false, 
+    "deletedAt" : null, 
+    "status" : NumberInt(1), 
+    "title" : "0113 Vision Equipment", 
+    "created_at" : ISODate("2021-05-05T12:03:10.364+0000"), 
+    "updated_at" : ISODate("2021-05-05T12:03:10.364+0000"), 
+    "slug" : "0113-vision-equipment", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("6092898534bd1a52e459db1b"), 
+    "isDeleted" : false, 
+    "deletedAt" : null, 
+    "status" : NumberInt(1), 
+    "title" : "0114 Community Nursing Care", 
+    "created_at" : ISODate("2021-05-05T12:03:17.988+0000"), 
+    "updated_at" : ISODate("2021-05-05T12:03:17.988+0000"), 
+    "slug" : "0114-community-nursing-care", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("6092899034bd1a52e459db1c"), 
+    "isDeleted" : false, 
+    "deletedAt" : null, 
+    "status" : NumberInt(1), 
+    "title" : "0116 Innovative Community Participation", 
+    "created_at" : ISODate("2021-05-05T12:03:28.170+0000"), 
+    "updated_at" : ISODate("2021-05-05T12:03:28.170+0000"), 
+    "slug" : "0116-innovative-community-participation", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("6092899734bd1a52e459db1d"), 
+    "isDeleted" : false, 
+    "deletedAt" : null, 
+    "status" : NumberInt(1), 
+    "title" : "0119 Specialised Hearing Services", 
+    "created_at" : ISODate("2021-05-05T12:03:35.705+0000"), 
+    "updated_at" : ISODate("2021-05-05T12:03:35.705+0000"), 
+    "slug" : "0119-specialised-hearing-services", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("609289cd34bd1a52e459db1e"), 
+    "isDeleted" : false, 
+    "deletedAt" : null, 
+    "status" : NumberInt(1), 
+    "title" : "0120 Household Tasks", 
+    "created_at" : ISODate("2021-05-05T12:04:29.006+0000"), 
+    "updated_at" : ISODate("2021-05-05T12:04:29.006+0000"), 
+    "slug" : "0120-household-tasks", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("609289d834bd1a52e459db1f"), 
+    "isDeleted" : false, 
+    "deletedAt" : null, 
+    "status" : NumberInt(0), 
+    "title" : "0121 Interpreting and Translation", 
+    "created_at" : ISODate("2021-05-05T12:04:40.473+0000"), 
+    "updated_at" : ISODate("2021-06-01T12:52:16.869+0000"), 
+    "slug" : "0121-interpreting-and-translation", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("609289e134bd1a52e459db20"), 
+    "isDeleted" : false, 
+    "deletedAt" : null, 
+    "status" : NumberInt(1), 
+    "title" : "0122 Hearing Equipment", 
+    "created_at" : ISODate("2021-05-05T12:04:49.483+0000"), 
+    "updated_at" : ISODate("2021-05-05T12:04:49.483+0000"), 
+    "slug" : "0122-hearing-equipment", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("609289e734bd1a52e459db21"), 
+    "isDeleted" : false, 
+    "deletedAt" : null, 
+    "status" : NumberInt(0), 
+    "title" : "0123 Assistive Products for Household Tasks ", 
+    "created_at" : ISODate("2021-05-05T12:04:55.370+0000"), 
+    "updated_at" : ISODate("2021-06-16T10:22:28.505+0000"), 
+    "slug" : "0123-assistive-products-for-household-tasks", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("609289ed34bd1a52e459db22"), 
+    "isDeleted" : false, 
+    "deletedAt" : null, 
+    "status" : NumberInt(0), 
+    "title" : "0124 Communication & Information Equipment", 
+    "created_at" : ISODate("2021-05-05T12:05:01.952+0000"), 
+    "updated_at" : ISODate("2021-06-01T12:52:14.628+0000"), 
+    "slug" : "0124-communication-and-information-equipment", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("609289f434bd1a52e459db23"), 
+    "isDeleted" : false, 
+    "deletedAt" : null, 
+    "status" : NumberInt(0), 
+    "title" : "0126 Exercise Physiology & Personal Training ", 
+    "created_at" : ISODate("2021-05-05T12:05:08.928+0000"), 
+    "updated_at" : ISODate("2021-06-01T12:52:14.017+0000"), 
+    "slug" : "0126-exercise-physiology-and-personal-training", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("609289fc34bd1a52e459db24"), 
+    "isDeleted" : false, 
+    "deletedAt" : null, 
+    "status" : NumberInt(0), 
+    "title" : "0127 Management of Funding for Supports in Participants Plans (Plan Management)", 
+    "created_at" : ISODate("2021-05-05T12:05:16.935+0000"), 
+    "updated_at" : ISODate("2021-06-16T10:22:29.737+0000"), 
+    "slug" : "0127-management-of-funding-for-supports-in-participants-plans-plan-management", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60928a0434bd1a52e459db25"), 
+    "isDeleted" : false, 
+    "deletedAt" : null, 
+    "status" : NumberInt(0), 
+    "title" : "0128 Therapeutic Supports", 
+    "created_at" : ISODate("2021-05-05T12:05:24.751+0000"), 
+    "updated_at" : ISODate("2021-06-01T12:52:16.032+0000"), 
+    "slug" : "0128-therapeutic-supports", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60928a0d34bd1a52e459db26"), 
+    "isDeleted" : false, 
+    "deletedAt" : null, 
+    "status" : NumberInt(0), 
+    "title" : "0129 Specialised Driver Training", 
+    "created_at" : ISODate("2021-05-05T12:05:33.800+0000"), 
+    "updated_at" : ISODate("2021-06-30T06:28:54.651+0000"), 
+    "slug" : "0129-specialised-driver-training", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60928a1634bd1a52e459db27"), 
+    "isDeleted" : true, 
+    "deletedAt" : ISODate("2021-06-01T12:50:22.991+0000"), 
+    "status" : NumberInt(1), 
+    "title" : "0130 Assistance Animals", 
+    "created_at" : ISODate("2021-05-05T12:05:42.285+0000"), 
+    "updated_at" : ISODate("2021-06-01T12:50:22.991+0000"), 
+    "slug" : "0130-assistance-animals", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60928a1f34bd1a52e459db28"), 
+    "isDeleted" : false, 
+    "deletedAt" : null, 
+    "status" : NumberInt(1), 
+    "title" : "0134 Hearing Services", 
+    "created_at" : ISODate("2021-05-05T12:05:51.781+0000"), 
+    "updated_at" : ISODate("2021-06-30T06:28:54.119+0000"), 
+    "slug" : "0134-hearing-services", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60928a2734bd1a52e459db29"), 
+    "isDeleted" : false, 
+    "deletedAt" : null, 
+    "status" : NumberInt(1), 
+    "title" : "0135 Custom Prosthetics", 
+    "created_at" : ISODate("2021-05-05T12:05:59.164+0000"), 
+    "updated_at" : ISODate("2021-07-01T14:10:57.243+0000"), 
+    "slug" : "0135-custom-prosthetics", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60aba23276697a094af1cccd"), 
+    "isDeleted" : true, 
+    "deletedAt" : ISODate("2021-06-11T09:49:50.806+0000"), 
+    "status" : NumberInt(1), 
+    "title" : "deepakJOshi", 
+    "created_at" : ISODate("2021-05-24T12:55:14.373+0000"), 
+    "updated_at" : ISODate("2021-06-11T09:49:50.807+0000"), 
+    "slug" : "deepakjoshi", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60b62cee76697a094af1ccd8"), 
+    "isDeleted" : true, 
+    "deletedAt" : ISODate("2021-06-01T12:50:19.430+0000"), 
+    "status" : NumberInt(1), 
+    "title" : "Testing Purpose", 
+    "created_at" : ISODate("2021-06-01T12:49:50.354+0000"), 
+    "updated_at" : ISODate("2021-06-01T12:50:19.430+0000"), 
+    "slug" : "testing-purpose", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60c9cf042eec693d83b30633"), 
+    "isDeleted" : true, 
+    "deletedAt" : ISODate("2021-06-21T06:32:41.256+0000"), 
+    "status" : NumberInt(1), 
+    "title" : "hello Documents", 
+    "created_at" : ISODate("2021-06-16T10:14:28.630+0000"), 
+    "updated_at" : ISODate("2021-06-21T06:32:41.257+0000"), 
+    "slug" : "hello-documents", 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60dea0ddc627472f1de142c3"), 
+    "isDeleted" : true, 
+    "deletedAt" : ISODate("2021-07-13T06:22:42.924+0000"), 
+    "status" : NumberInt(1), 
+    "title" : "General Documents", 
+    "created_at" : ISODate("2021-07-02T05:15:09.101+0000"), 
+    "updated_at" : ISODate("2021-07-13T06:22:42.925+0000"), 
+    "slug" : "general-documents", 
+    "__v" : NumberInt(0)
+}

@@ -1,0 +1,96 @@
+<table
+  style="
+    font-family: arial;
+    width: 1500px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 36px;
+    color: #212529;
+  "
+>
+  <tr>
+    <th style="font-size: 64px; line-height: 2" align="center">
+      <img style="width: 180px; margin-bottom: 20px" src="/logo.svg" />
+    </th>
+  </tr>
+  <tr>
+    <td>
+      <table
+        style="
+          width: 100%;
+          border-bottom: 1px solid #d7d7d7;
+          border-top: 1px solid #d7d7d7;
+          margin-bottom: 15px;
+          padding: 28px 0;
+        "
+        align="left"
+      >
+        <tbody style="border-bottom: 1px solid #d7d7d7" border="1">
+          <tr style="line-height: 2.5">
+            <td style="text-align: left; width: 15%; font-weight: bold">
+              First Name
+            </td>
+            <td style="text-align: left; width: 15%; font-weight: bold">
+              Middle Name
+            </td>
+            <td style="text-align: left; width: 15%; font-weight: bold">
+              Last Name
+            </td>
+            <td style="text-align: left; width: 15%; font-weight: bold">
+              Email
+            </td>
+            <td style="text-align: left; width: 15%; font-weight: bold">DOB</td>
+            <td style="text-align: left; width: 10%; font-weight: bold">
+              Type
+            </td>
+            <td style="text-align: left; width: 15%; font-weight: bold">
+              Position
+            </td>
+          </tr>
+          <% for(var i=0; i < data.length; i++) { %> <%if (i % 35 == 0) { %>
+        </tbody>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table
+        style="
+          width: 100%;
+          border-bottom: 0px solid #d7d7d7;
+          border-top: 0px solid #d7d7d7;
+          margin-bottom: 0px;
+          padding: 0pxpx 0;
+        "
+        align="left"
+        class="new-page"
+      >
+        <tbody style="border-bottom: 1px solid #d7d7d7" border="1">
+          <% } %>
+          <tr style="line-height: 2.5">
+            <td style="text-align: left"><%= data[i].first_name %></td>
+            <td style="text-align: left"><%= data[i].middle_name %></td>
+            <td style="text-align: left"><%= data[i].last_name %></td>
+            <td style="text-align: left"><%= data[i].email %></td>
+            <td style="text-align: left">
+              <%= moment(data[i].dob).format('Do MMMM, YYYY') %>
+            </td>
+            <td style="text-align: left"><%= data[i].type %></td>
+            <td style="text-align: left"><%= data[i].positionHeld %></td>
+          </tr>
+          <% } %>
+        </tbody>
+      </table>
+    </td>
+  </tr>
+</table>
+<style>
+  @media print {
+    .new-page {
+      page-break-before: always;
+    }
+  }
+  .new-page {
+    page-break-before: always;
+  }
+</style>

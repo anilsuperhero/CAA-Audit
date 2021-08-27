@@ -1,0 +1,352 @@
+{ 
+    "_id" : ObjectId("611656810c1ae03da05398d1"), 
+    "lead" : ObjectId("609283c034bd1a52e459db12"), 
+    "peer" : ObjectId("60c97c122eec693d83b30630"), 
+    "support" : ObjectId("60abdb2176697a094af1ccd1"), 
+    "type" : "CERTIFICATION", 
+    "registration_group" : [
+        {
+            "_id" : "610cdf039956274d7c03c09c", 
+            "title" : "Compliance, Checks & Insurance", 
+            "document" : [
+                {
+                    "_id" : "610cdfb09956274d7c03c0ca", 
+                    "status" : NumberInt(1), 
+                    "extension" : [
+                        ".pdf", 
+                        ".jpg", 
+                        ".doc", 
+                        ".docx"
+                    ], 
+                    "type" : "Company", 
+                    "documentType" : "Multiple", 
+                    "title" : "Insurances", 
+                    "registration_group_id" : {
+                        "_id" : "610cdf039956274d7c03c09c", 
+                        "title" : "Compliance, Checks & Insurance"
+                    }
+                }
+            ]
+        }
+    ], 
+    "selectedDocument" : [
+        {
+            "id" : "610cdf039956274d7c03c09c", 
+            "title" : "Compliance, Checks & Insurance", 
+            "documents" : {
+                "company" : [
+                    {
+                        "id" : "610cdfb09956274d7c03c0ca", 
+                        "title" : "Insurances", 
+                        "type" : "Company", 
+                        "documentType" : "Multiple", 
+                        "extension" : [
+                            ".pdf", 
+                            ".jpg", 
+                            ".doc", 
+                            ".docx"
+                        ], 
+                        "status" : NumberInt(2)
+                    }
+                ]
+            }
+        }
+    ], 
+    "keyStaff" : [
+
+    ], 
+    "status_view" : "AU_GOVERNMENT", 
+    "status" : "AU_GOVERNMENT", 
+    "isPayment" : true, 
+    "is_advance" : true, 
+    "is_final" : false, 
+    "is_document" : false, 
+    "sign_type" : "SELF", 
+    "total_document" : NumberInt(1), 
+    "uploaded_document" : NumberInt(1), 
+    "is_request" : NumberInt(1), 
+    "isCertification" : true, 
+    "is_stage" : true, 
+    "is_auditor" : true, 
+    "title" : "C1002", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "audit_number" : "82146072", 
+    "size_of_company" : NumberInt(1000), 
+    "number_of_clients" : NumberInt(1000), 
+    "amount" : NumberInt(10000), 
+    "advance_payment" : NumberInt(5000), 
+    "final_payment" : NumberInt(5000), 
+    "invoice_number" : NumberInt(1000), 
+    "sla_document_name" : "sample.pdf", 
+    "sla_document" : "1628853889038.pdf", 
+    "sla_document_old" : "1628853889038.pdf", 
+    "invoice_document_name" : "sample.pdf", 
+    "invoice_document" : "1628853889042.pdf", 
+    "invoice_document_old" : "1628853889042.pdf", 
+    "created_at" : ISODate("2021-08-13T11:24:49.047+0000"), 
+    "updated_at" : ISODate("2021-08-13T12:01:49.417+0000"), 
+    "slug" : "c1002", 
+    "__v" : NumberInt(0), 
+    "sla_document_sign" : "1628853916238.pdf", 
+    "sla_document_sign_name" : "sample.pdf", 
+    "sla_document_sign_old" : "1628853916238.pdf", 
+    "documentComplete" : ISODate("2021-08-13T11:29:22.143+0000"), 
+    "audit_date" : "13-09-2021", 
+    "description" : "Request stage 1", 
+    "endDate" : "15-09-2021", 
+    "startDate" : "13-09-2021", 
+    "report" : "1628854686725.jpg", 
+    "report_name" : "01.jpg", 
+    "report_remarks" : "New report", 
+    "audit_date_stage" : "15-09-2021", 
+    "description_stage" : "2 stage request", 
+    "endDateStage" : "29-09-2021", 
+    "startDateStage" : "15-09-2021", 
+    "report_name_stage" : "2.jpg", 
+    "report_remarks_stage" : "New report", 
+    "report_stage" : "1628855392772.jpg"
+}
+{ 
+    "_id" : ObjectId("611669edaf32773bf08ebfe3"), 
+    "lead" : null, 
+    "peer" : null, 
+    "support" : null, 
+    "type" : "VERIFICATION", 
+    "registration_group" : [
+        {
+            "_id" : "610b71929956274d7c03bfef", 
+            "title" : "100 Points of ID", 
+            "document" : [
+                {
+                    "_id" : "610cde319956274d7c03c06e", 
+                    "status" : NumberInt(1), 
+                    "extension" : [
+                        ".pdf", 
+                        ".jpg", 
+                        ".doc", 
+                        ".docx"
+                    ], 
+                    "type" : "Staff", 
+                    "documentType" : "Multiple", 
+                    "title" : "Primary ID Document", 
+                    "registration_group_id" : {
+                        "_id" : "610b71929956274d7c03bfef", 
+                        "title" : "100 Points of ID"
+                    }
+                }, 
+                {
+                    "_id" : "610cde419956274d7c03c072", 
+                    "status" : NumberInt(1), 
+                    "extension" : [
+                        ".pdf", 
+                        ".jpg", 
+                        ".doc", 
+                        ".docx"
+                    ], 
+                    "type" : "Staff", 
+                    "documentType" : "Multiple", 
+                    "title" : "Secondary ID Document", 
+                    "registration_group_id" : {
+                        "_id" : "610b71929956274d7c03bfef", 
+                        "title" : "100 Points of ID"
+                    }
+                }
+            ]
+        }
+    ], 
+    "selectedDocument" : [
+        {
+            "id" : "610b71929956274d7c03bfef", 
+            "title" : "100 Points of ID", 
+            "documents" : {
+                "company" : [
+
+                ], 
+                "staff" : [
+                    {
+                        "_id" : ObjectId("61122799c39e5435303a4c6a"), 
+                        "first_name" : "Darryl", 
+                        "last_name" : "Mays", 
+                        "email" : "bityninu@mailinator.com", 
+                        "status" : NumberInt(1), 
+                        "positionHeld" : "Qui officia qui non", 
+                        "document" : [
+                            {
+                                "id" : "610cde319956274d7c03c06e", 
+                                "title" : "Primary ID Document", 
+                                "type" : "Staff", 
+                                "documentType" : "Multiple", 
+                                "extension" : [
+                                    ".pdf", 
+                                    ".jpg", 
+                                    ".doc", 
+                                    ".docx"
+                                ], 
+                                "status" : NumberInt(1)
+                            }, 
+                            {
+                                "id" : "610cde419956274d7c03c072", 
+                                "title" : "Secondary ID Document", 
+                                "type" : "Staff", 
+                                "documentType" : "Multiple", 
+                                "extension" : [
+                                    ".pdf", 
+                                    ".jpg", 
+                                    ".doc", 
+                                    ".docx"
+                                ], 
+                                "status" : NumberInt(1)
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ], 
+    "keyStaff" : [
+        {
+            "_id" : ObjectId("61122799c39e5435303a4c6a"), 
+            "first_name" : "Darryl", 
+            "last_name" : "Mays", 
+            "email" : "bityninu@mailinator.com", 
+            "status" : NumberInt(1), 
+            "positionHeld" : "Qui officia qui non", 
+            "document" : [
+
+            ]
+        }
+    ], 
+    "status_view" : "KEP_UPDATE", 
+    "status" : "KEP_UPDATE", 
+    "isPayment" : true, 
+    "is_advance" : true, 
+    "is_final" : true, 
+    "is_document" : false, 
+    "sign_type" : "SELF", 
+    "total_document" : NumberInt(2), 
+    "uploaded_document" : NumberInt(0), 
+    "is_request" : NumberInt(0), 
+    "isCertification" : false, 
+    "is_stage" : false, 
+    "is_auditor" : false, 
+    "title" : "ABC10001", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "audit_number" : "30663844", 
+    "size_of_company" : NumberInt(100), 
+    "number_of_clients" : NumberInt(1000), 
+    "remarks" : "5000", 
+    "amount" : NumberInt(10000), 
+    "invoice_number" : NumberInt(10000), 
+    "sla_document_name" : "sample.pdf", 
+    "sla_document" : "1628858861288.pdf", 
+    "sla_document_old" : "1628858861288.pdf", 
+    "invoice_document_name" : "sample.pdf", 
+    "invoice_document" : "1628858861293.pdf", 
+    "invoice_document_old" : "1628858861293.pdf", 
+    "created_at" : ISODate("2021-08-13T12:47:41.314+0000"), 
+    "updated_at" : ISODate("2021-08-13T12:53:47.424+0000"), 
+    "slug" : "abc10001", 
+    "__v" : NumberInt(0), 
+    "sla_document_sign" : "1628858969242.pdf", 
+    "sla_document_sign_name" : "sample.pdf", 
+    "sla_document_sign_old" : "1628858969242.pdf"
+}
+{ 
+    "_id" : ObjectId("6116702e5f70172834894c2b"), 
+    "lead" : ObjectId("609283c034bd1a52e459db12"), 
+    "peer" : ObjectId("60c97c122eec693d83b30630"), 
+    "support" : ObjectId("60abdb2176697a094af1ccd1"), 
+    "type" : "CERTIFICATION", 
+    "registration_group" : [
+        {
+            "_id" : "610cdf039956274d7c03c09c", 
+            "title" : "Compliance, Checks & Insurance", 
+            "document" : [
+                {
+                    "_id" : "610cdfb09956274d7c03c0ca", 
+                    "status" : NumberInt(1), 
+                    "extension" : [
+                        ".pdf", 
+                        ".jpg", 
+                        ".doc", 
+                        ".docx"
+                    ], 
+                    "type" : "Company", 
+                    "documentType" : "Multiple", 
+                    "title" : "Insurances", 
+                    "registration_group_id" : {
+                        "_id" : "610cdf039956274d7c03c09c", 
+                        "title" : "Compliance, Checks & Insurance"
+                    }
+                }
+            ]
+        }
+    ], 
+    "selectedDocument" : [
+        {
+            "id" : "610cdf039956274d7c03c09c", 
+            "title" : "Compliance, Checks & Insurance", 
+            "documents" : {
+                "company" : [
+                    {
+                        "id" : "610cdfb09956274d7c03c0ca", 
+                        "title" : "Insurances", 
+                        "type" : "Company", 
+                        "documentType" : "Multiple", 
+                        "extension" : [
+                            ".pdf", 
+                            ".jpg", 
+                            ".doc", 
+                            ".docx"
+                        ], 
+                        "status" : NumberInt(2)
+                    }
+                ]
+            }
+        }
+    ], 
+    "keyStaff" : [
+
+    ], 
+    "status_view" : "AUDIT_DATE_BOOK", 
+    "status" : "AUDIT_DATE_BOOK", 
+    "isPayment" : true, 
+    "is_advance" : true, 
+    "is_final" : true, 
+    "is_document" : false, 
+    "sign_type" : "SELF", 
+    "total_document" : NumberInt(1), 
+    "uploaded_document" : NumberInt(1), 
+    "is_request" : NumberInt(1), 
+    "isCertification" : true, 
+    "is_stage" : false, 
+    "is_auditor" : true, 
+    "title" : "ABC1001", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "audit_number" : "96508001", 
+    "size_of_company" : NumberInt(100), 
+    "number_of_clients" : NumberInt(1200), 
+    "remarks" : "Test", 
+    "amount" : NumberInt(8000), 
+    "advance_payment" : NumberInt(5000), 
+    "final_payment" : NumberInt(3000), 
+    "invoice_number" : NumberInt(1000), 
+    "sla_document_name" : "sample.pdf", 
+    "sla_document" : "1628860462048.pdf", 
+    "sla_document_old" : "1628860462048.pdf", 
+    "invoice_document_name" : "sample.pdf", 
+    "invoice_document" : "1628860462052.pdf", 
+    "invoice_document_old" : "1628860462052.pdf", 
+    "created_at" : ISODate("2021-08-13T13:14:22.057+0000"), 
+    "updated_at" : ISODate("2021-08-13T13:17:14.413+0000"), 
+    "slug" : "abc1001", 
+    "__v" : NumberInt(0), 
+    "sla_document_sign" : "1628860549928.pdf", 
+    "sla_document_sign_name" : "sample.pdf", 
+    "sla_document_sign_old" : "1628860549928.pdf", 
+    "documentComplete" : ISODate("2021-08-13T13:16:15.819+0000"), 
+    "audit_date" : "13-09-2021", 
+    "description" : "test requets", 
+    "endDate" : "28-09-2021", 
+    "startDate" : "13-09-2021"
+}

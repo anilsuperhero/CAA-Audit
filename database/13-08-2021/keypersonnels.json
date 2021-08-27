@@ -1,0 +1,17 @@
+{ 
+    "_id" : ObjectId("61122799c39e5435303a4c6a"), 
+    "type" : "STAFF", 
+    "isDeleted" : false, 
+    "deletedAt" : null, 
+    "first_name" : "Darryl", 
+    "middle_name" : "McKenzie", 
+    "last_name" : "Mays", 
+    "email" : "bityninu@mailinator.com", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "status" : NumberInt(1), 
+    "dob" : "10-08-2003", 
+    "positionHeld" : "Qui officia qui non", 
+    "mobile_number" : "8866458588", 
+    "created_at" : ISODate("2021-08-10T07:15:37.454+0000"), 
+    "updated_at" : ISODate("2021-08-10T07:15:37.454+0000")
+}

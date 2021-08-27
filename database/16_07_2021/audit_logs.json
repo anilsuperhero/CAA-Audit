@@ -1,0 +1,1111 @@
+{ 
+    "_id" : ObjectId("60ddccd0c627472f1de141c8"), 
+    "type" : "VERIFICATION", 
+    "status" : "SLAUPLOADED", 
+    "audit_id" : ObjectId("60ddccd0c627472f1de141c5"), 
+    "audit_number" : "78559773", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-01T14:10:24.774+0000"), 
+    "updated_at" : ISODate("2021-07-01T14:10:24.774+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60ddccd0c627472f1de141c7"), 
+    "type" : "VERIFICATION", 
+    "status" : "CREATED", 
+    "audit_id" : ObjectId("60ddccd0c627472f1de141c5"), 
+    "audit_number" : "78559773", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-01T14:10:24.773+0000"), 
+    "updated_at" : ISODate("2021-07-01T14:10:24.773+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60e81d335abd714b63e2800a"), 
+    "type" : "VERIFICATION", 
+    "status" : "CREATED", 
+    "audit_id" : ObjectId("60e81d335abd714b63e28008"), 
+    "audit_number" : "58167618", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-09T09:56:03.271+0000"), 
+    "updated_at" : ISODate("2021-07-09T09:56:03.271+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60e81d335abd714b63e2800b"), 
+    "type" : "VERIFICATION", 
+    "status" : "SLAUPLOADED", 
+    "audit_id" : ObjectId("60e81d335abd714b63e28008"), 
+    "audit_number" : "58167618", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-09T09:56:03.271+0000"), 
+    "updated_at" : ISODate("2021-07-09T09:56:03.271+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60e81f225abd714b63e28055"), 
+    "type" : "VERIFICATION", 
+    "status" : "SLASIGNED", 
+    "audit_id" : ObjectId("60e81d335abd714b63e28008"), 
+    "audit_number" : "58167618", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-09T10:04:18.464+0000"), 
+    "updated_at" : ISODate("2021-07-09T10:04:18.464+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60e81f345abd714b63e28069"), 
+    "type" : "VERIFICATION", 
+    "status" : "PROGRESS", 
+    "audit_id" : ObjectId("60e81d335abd714b63e28008"), 
+    "audit_number" : "58167618", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-09T10:04:36.097+0000"), 
+    "updated_at" : ISODate("2021-07-09T10:04:36.097+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60e81fa55abd714b63e2808a"), 
+    "type" : "VERIFICATION", 
+    "status" : "CREATED", 
+    "audit_id" : ObjectId("60e81fa55abd714b63e28088"), 
+    "audit_number" : "30727558", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-09T10:06:29.413+0000"), 
+    "updated_at" : ISODate("2021-07-09T10:06:29.413+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60e81fa55abd714b63e2808b"), 
+    "type" : "VERIFICATION", 
+    "status" : "SLAUPLOADED", 
+    "audit_id" : ObjectId("60e81fa55abd714b63e28088"), 
+    "audit_number" : "30727558", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-09T10:06:29.414+0000"), 
+    "updated_at" : ISODate("2021-07-09T10:06:29.414+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60e81fd75abd714b63e280a4"), 
+    "type" : "VERIFICATION", 
+    "status" : "SLASIGNED", 
+    "audit_id" : ObjectId("60e81fa55abd714b63e28088"), 
+    "audit_number" : "30727558", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-09T10:07:19.251+0000"), 
+    "updated_at" : ISODate("2021-07-09T10:07:19.251+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60e820b25abd714b63e280cb"), 
+    "type" : "VERIFICATION", 
+    "status" : "CREATED", 
+    "audit_id" : ObjectId("60e820b25abd714b63e280c9"), 
+    "audit_number" : "84052155", 
+    "company_id" : ObjectId("608ab6732433017c830240da"), 
+    "created_at" : ISODate("2021-07-09T10:10:58.260+0000"), 
+    "updated_at" : ISODate("2021-07-09T10:10:58.260+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60e820b25abd714b63e280cc"), 
+    "type" : "VERIFICATION", 
+    "status" : "SLAUPLOADED", 
+    "audit_id" : ObjectId("60e820b25abd714b63e280c9"), 
+    "audit_number" : "84052155", 
+    "company_id" : ObjectId("608ab6732433017c830240da"), 
+    "created_at" : ISODate("2021-07-09T10:10:58.260+0000"), 
+    "updated_at" : ISODate("2021-07-09T10:10:58.260+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60e821845abd714b63e280f4"), 
+    "type" : "VERIFICATION", 
+    "status" : "CREATED", 
+    "audit_id" : ObjectId("60e821845abd714b63e280f2"), 
+    "audit_number" : "97037629", 
+    "company_id" : ObjectId("60e8215b5abd714b63e280e3"), 
+    "created_at" : ISODate("2021-07-09T10:14:28.812+0000"), 
+    "updated_at" : ISODate("2021-07-09T10:14:28.812+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60e821845abd714b63e280f5"), 
+    "type" : "VERIFICATION", 
+    "status" : "SLAUPLOADED", 
+    "audit_id" : ObjectId("60e821845abd714b63e280f2"), 
+    "audit_number" : "97037629", 
+    "company_id" : ObjectId("60e8215b5abd714b63e280e3"), 
+    "created_at" : ISODate("2021-07-09T10:14:28.812+0000"), 
+    "updated_at" : ISODate("2021-07-09T10:14:28.812+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60e822285abd714b63e28115"), 
+    "type" : "VERIFICATION", 
+    "status" : "SLASIGNED", 
+    "audit_id" : ObjectId("60e821845abd714b63e280f2"), 
+    "audit_number" : "97037629", 
+    "company_id" : ObjectId("60e8215b5abd714b63e280e3"), 
+    "created_at" : ISODate("2021-07-09T10:17:12.749+0000"), 
+    "updated_at" : ISODate("2021-07-09T10:17:12.749+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60e90b385abd714b63e281cb"), 
+    "type" : "VERIFICATION", 
+    "status" : "CREATED", 
+    "audit_id" : ObjectId("60e90b385abd714b63e281c9"), 
+    "audit_number" : "59217934", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-10T02:51:36.084+0000"), 
+    "updated_at" : ISODate("2021-07-10T02:51:36.084+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60e90b385abd714b63e281cc"), 
+    "type" : "VERIFICATION", 
+    "status" : "SLAUPLOADED", 
+    "audit_id" : ObjectId("60e90b385abd714b63e281c9"), 
+    "audit_number" : "59217934", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-10T02:51:36.084+0000"), 
+    "updated_at" : ISODate("2021-07-10T02:51:36.084+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60e90be65abd714b63e281f4"), 
+    "type" : "VERIFICATION", 
+    "status" : "SLASIGNED", 
+    "audit_id" : ObjectId("60e90b385abd714b63e281c9"), 
+    "audit_number" : "59217934", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-10T02:54:30.750+0000"), 
+    "updated_at" : ISODate("2021-07-10T02:54:30.750+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60e90bf95abd714b63e2820d"), 
+    "type" : "VERIFICATION", 
+    "status" : "PROGRESS", 
+    "audit_id" : ObjectId("60e90b385abd714b63e281c9"), 
+    "audit_number" : "59217934", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-10T02:54:49.890+0000"), 
+    "updated_at" : ISODate("2021-07-10T02:54:49.890+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60e90de35abd714b63e2827a"), 
+    "type" : "VERIFICATION", 
+    "status" : "CREATED", 
+    "audit_id" : ObjectId("60e90de35abd714b63e28278"), 
+    "audit_number" : "31217819", 
+    "company_id" : ObjectId("60e90d485abd714b63e28252"), 
+    "created_at" : ISODate("2021-07-10T03:02:59.838+0000"), 
+    "updated_at" : ISODate("2021-07-10T03:02:59.838+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60e90de35abd714b63e2827b"), 
+    "type" : "VERIFICATION", 
+    "status" : "SLAUPLOADED", 
+    "audit_id" : ObjectId("60e90de35abd714b63e28278"), 
+    "audit_number" : "31217819", 
+    "company_id" : ObjectId("60e90d485abd714b63e28252"), 
+    "created_at" : ISODate("2021-07-10T03:02:59.838+0000"), 
+    "updated_at" : ISODate("2021-07-10T03:02:59.838+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60eba7de5abd714b63e282c7"), 
+    "type" : "VERIFICATION", 
+    "status" : "SLASIGNED", 
+    "audit_id" : ObjectId("60e90de35abd714b63e28278"), 
+    "audit_number" : "31217819", 
+    "company_id" : ObjectId("60e90d485abd714b63e28252"), 
+    "created_at" : ISODate("2021-07-12T02:24:30.947+0000"), 
+    "updated_at" : ISODate("2021-07-12T02:24:30.947+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60eba7eb5abd714b63e282db"), 
+    "type" : "VERIFICATION", 
+    "status" : "PROGRESS", 
+    "audit_id" : ObjectId("60e90de35abd714b63e28278"), 
+    "audit_number" : "31217819", 
+    "company_id" : ObjectId("60e90d485abd714b63e28252"), 
+    "created_at" : ISODate("2021-07-12T02:24:43.471+0000"), 
+    "updated_at" : ISODate("2021-07-12T02:24:43.471+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60ec47941fd8ce2630f97438"), 
+    "type" : "VERIFICATION", 
+    "status" : "CREATED", 
+    "audit_id" : ObjectId("60ec47941fd8ce2630f97436"), 
+    "audit_number" : "49119266", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-12T13:45:56.882+0000"), 
+    "updated_at" : ISODate("2021-07-12T13:45:56.882+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60ec47941fd8ce2630f97439"), 
+    "type" : "VERIFICATION", 
+    "status" : "SLAUPLOADED", 
+    "audit_id" : ObjectId("60ec47941fd8ce2630f97436"), 
+    "audit_number" : "49119266", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-12T13:45:56.882+0000"), 
+    "updated_at" : ISODate("2021-07-12T13:45:56.882+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60ed2902d7119c1f140c1fc6"), 
+    "type" : "VERIFICATION", 
+    "status" : "SLASIGNED", 
+    "audit_id" : ObjectId("60ec47941fd8ce2630f97436"), 
+    "audit_number" : "49119266", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-13T05:47:46.712+0000"), 
+    "updated_at" : ISODate("2021-07-13T05:47:46.712+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60ed2912d7119c1f140c1fda"), 
+    "type" : "VERIFICATION", 
+    "status" : "PROGRESS", 
+    "audit_id" : ObjectId("60ec47941fd8ce2630f97436"), 
+    "audit_number" : "49119266", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-13T05:48:02.941+0000"), 
+    "updated_at" : ISODate("2021-07-13T05:48:02.941+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60ee83f3a641753cacd56315"), 
+    "type" : "VERIFICATION", 
+    "status" : "CREATED", 
+    "audit_id" : ObjectId("60ee83f3a641753cacd56313"), 
+    "audit_number" : "27793399", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-14T06:28:03.523+0000"), 
+    "updated_at" : ISODate("2021-07-14T06:28:03.523+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60ee83f3a641753cacd56316"), 
+    "type" : "VERIFICATION", 
+    "status" : "SLAUPLOADED", 
+    "audit_id" : ObjectId("60ee83f3a641753cacd56313"), 
+    "audit_number" : "27793399", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-14T06:28:03.523+0000"), 
+    "updated_at" : ISODate("2021-07-14T06:28:03.523+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60eeb05afba27004301e4eb7"), 
+    "type" : "VERIFICATION", 
+    "status" : "SLASIGNED", 
+    "audit_id" : ObjectId("60ee83f3a641753cacd56313"), 
+    "audit_number" : "27793399", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-14T09:37:30.097+0000"), 
+    "updated_at" : ISODate("2021-07-14T09:37:30.097+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60eeb069fba27004301e4ecb"), 
+    "type" : "VERIFICATION", 
+    "status" : "PROGRESS", 
+    "audit_id" : ObjectId("60ee83f3a641753cacd56313"), 
+    "audit_number" : "27793399", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-14T09:37:45.790+0000"), 
+    "updated_at" : ISODate("2021-07-14T09:37:45.790+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60eeefcdd496e105e40e5aab"), 
+    "type" : "VERIFICATION", 
+    "status" : "SLAUPLOADED", 
+    "audit_id" : ObjectId("60eeefcdd496e105e40e5aa8"), 
+    "audit_number" : "55107674", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-14T14:08:13.543+0000"), 
+    "updated_at" : ISODate("2021-07-14T14:08:13.543+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60eeefcdd496e105e40e5aaa"), 
+    "type" : "VERIFICATION", 
+    "status" : "CREATED", 
+    "audit_id" : ObjectId("60eeefcdd496e105e40e5aa8"), 
+    "audit_number" : "55107674", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-14T14:08:13.543+0000"), 
+    "updated_at" : ISODate("2021-07-14T14:08:13.543+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60eef0c426f1d109fc89f675"), 
+    "type" : "VERIFICATION", 
+    "status" : "CREATED", 
+    "audit_id" : ObjectId("60eef0c426f1d109fc89f673"), 
+    "audit_number" : "59073981", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-14T14:12:20.696+0000"), 
+    "updated_at" : ISODate("2021-07-14T14:12:20.696+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60eef0c426f1d109fc89f676"), 
+    "type" : "VERIFICATION", 
+    "status" : "SLAUPLOADED", 
+    "audit_id" : ObjectId("60eef0c426f1d109fc89f673"), 
+    "audit_number" : "59073981", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-14T14:12:20.696+0000"), 
+    "updated_at" : ISODate("2021-07-14T14:12:20.696+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60eef0ea26f1d109fc89f692"), 
+    "type" : "VERIFICATION", 
+    "status" : "CREATED", 
+    "audit_id" : ObjectId("60eef0ea26f1d109fc89f690"), 
+    "audit_number" : "19715203", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-14T14:12:58.357+0000"), 
+    "updated_at" : ISODate("2021-07-14T14:12:58.357+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60eef0ea26f1d109fc89f693"), 
+    "type" : "VERIFICATION", 
+    "status" : "SLAUPLOADED", 
+    "audit_id" : ObjectId("60eef0ea26f1d109fc89f690"), 
+    "audit_number" : "19715203", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-14T14:12:58.357+0000"), 
+    "updated_at" : ISODate("2021-07-14T14:12:58.357+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60efc4d176d6412e2074162d"), 
+    "type" : "VERIFICATION", 
+    "status" : "SLASIGNED", 
+    "audit_id" : ObjectId("60eef0ea26f1d109fc89f690"), 
+    "audit_number" : "19715203", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-15T05:17:05.762+0000"), 
+    "updated_at" : ISODate("2021-07-15T05:17:05.762+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60efc4de76d6412e20741641"), 
+    "type" : "VERIFICATION", 
+    "status" : "PROGRESS", 
+    "audit_id" : ObjectId("60eef0ea26f1d109fc89f690"), 
+    "audit_number" : "19715203", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-15T05:17:18.637+0000"), 
+    "updated_at" : ISODate("2021-07-15T05:17:18.637+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60efe89fba058f37d80c168a"), 
+    "type" : "VERIFICATION", 
+    "status" : "CREATED", 
+    "audit_id" : ObjectId("60efe89fba058f37d80c1688"), 
+    "audit_number" : "30392673", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-15T07:49:51.233+0000"), 
+    "updated_at" : ISODate("2021-07-15T07:49:51.233+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60efe89fba058f37d80c168b"), 
+    "type" : "VERIFICATION", 
+    "status" : "SLAUPLOADED", 
+    "audit_id" : ObjectId("60efe89fba058f37d80c1688"), 
+    "audit_number" : "30392673", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-15T07:49:51.233+0000"), 
+    "updated_at" : ISODate("2021-07-15T07:49:51.233+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60efe8abba058f37d80c16a9"), 
+    "type" : "VERIFICATION", 
+    "status" : "SLASIGNED", 
+    "audit_id" : ObjectId("60efe89fba058f37d80c1688"), 
+    "audit_number" : "30392673", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-15T07:50:03.723+0000"), 
+    "updated_at" : ISODate("2021-07-15T07:50:03.723+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60efe8b8ba058f37d80c16bd"), 
+    "type" : "VERIFICATION", 
+    "status" : "PROGRESS", 
+    "audit_id" : ObjectId("60efe89fba058f37d80c1688"), 
+    "audit_number" : "30392673", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-15T07:50:16.654+0000"), 
+    "updated_at" : ISODate("2021-07-15T07:50:16.654+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60efff65e869381b4424948d"), 
+    "type" : "VERIFICATION", 
+    "status" : "CREATED", 
+    "audit_id" : ObjectId("60efff65e869381b4424948b"), 
+    "audit_number" : "27324372", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-15T09:27:01.572+0000"), 
+    "updated_at" : ISODate("2021-07-15T09:27:01.572+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60efff65e869381b4424948e"), 
+    "type" : "VERIFICATION", 
+    "status" : "SLAUPLOADED", 
+    "audit_id" : ObjectId("60efff65e869381b4424948b"), 
+    "audit_number" : "27324372", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-15T09:27:01.572+0000"), 
+    "updated_at" : ISODate("2021-07-15T09:27:01.572+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60f00d46e869381b442494ac"), 
+    "type" : "VERIFICATION", 
+    "status" : "SLASIGNED", 
+    "audit_id" : ObjectId("60efff65e869381b4424948b"), 
+    "audit_number" : "27324372", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-15T10:26:14.486+0000"), 
+    "updated_at" : ISODate("2021-07-15T10:26:14.486+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60f00d56e869381b442494c0"), 
+    "type" : "VERIFICATION", 
+    "status" : "PROGRESS", 
+    "audit_id" : ObjectId("60efff65e869381b4424948b"), 
+    "audit_number" : "27324372", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-15T10:26:31.587+0000"), 
+    "updated_at" : ISODate("2021-07-15T10:26:31.587+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60f0203a0445163718f6cb44"), 
+    "type" : "VERIFICATION", 
+    "status" : "CREATED", 
+    "audit_id" : ObjectId("60f0203a0445163718f6cb42"), 
+    "audit_number" : "62756672", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-15T11:47:06.273+0000"), 
+    "updated_at" : ISODate("2021-07-15T11:47:06.273+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60f0203a0445163718f6cb45"), 
+    "type" : "VERIFICATION", 
+    "status" : "SLAUPLOADED", 
+    "audit_id" : ObjectId("60f0203a0445163718f6cb42"), 
+    "audit_number" : "62756672", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-15T11:47:06.273+0000"), 
+    "updated_at" : ISODate("2021-07-15T11:47:06.273+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60f02096ddd6c33ed4be9eb6"), 
+    "type" : "VERIFICATION", 
+    "status" : "SLASIGNED", 
+    "audit_id" : ObjectId("60f0203a0445163718f6cb42"), 
+    "audit_number" : "62756672", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-15T11:48:38.548+0000"), 
+    "updated_at" : ISODate("2021-07-15T11:48:38.548+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60f020a1ddd6c33ed4be9eca"), 
+    "type" : "VERIFICATION", 
+    "status" : "PROGRESS", 
+    "audit_id" : ObjectId("60f0203a0445163718f6cb42"), 
+    "audit_number" : "62756672", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-15T11:48:50.167+0000"), 
+    "updated_at" : ISODate("2021-07-15T11:48:50.167+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60f0400efbe81d3bf818667e"), 
+    "type" : "VERIFICATION", 
+    "status" : "CREATED", 
+    "audit_id" : ObjectId("60f0400efbe81d3bf818667c"), 
+    "audit_number" : "49841829", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-15T14:02:54.715+0000"), 
+    "updated_at" : ISODate("2021-07-15T14:02:54.715+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60f0400efbe81d3bf818667f"), 
+    "type" : "VERIFICATION", 
+    "status" : "SLAUPLOADED", 
+    "audit_id" : ObjectId("60f0400efbe81d3bf818667c"), 
+    "audit_number" : "49841829", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-15T14:02:54.715+0000"), 
+    "updated_at" : ISODate("2021-07-15T14:02:54.715+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60f041c5f15f33373c1debc0"), 
+    "type" : "VERIFICATION", 
+    "status" : "CREATED", 
+    "audit_id" : ObjectId("60f041c5f15f33373c1debbe"), 
+    "audit_number" : "73557274", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-15T14:10:13.155+0000"), 
+    "updated_at" : ISODate("2021-07-15T14:10:13.155+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60f041c5f15f33373c1debc1"), 
+    "type" : "VERIFICATION", 
+    "status" : "SLAUPLOADED", 
+    "audit_id" : ObjectId("60f041c5f15f33373c1debbe"), 
+    "audit_number" : "73557274", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-15T14:10:13.155+0000"), 
+    "updated_at" : ISODate("2021-07-15T14:10:13.155+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60f04268265f2a2c7044bfbd"), 
+    "type" : "VERIFICATION", 
+    "status" : "SLASIGNED", 
+    "audit_id" : ObjectId("60f041c5f15f33373c1debbe"), 
+    "audit_number" : "73557274", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-15T14:12:56.844+0000"), 
+    "updated_at" : ISODate("2021-07-15T14:12:56.844+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60f04274265f2a2c7044bfd1"), 
+    "type" : "VERIFICATION", 
+    "status" : "PROGRESS", 
+    "audit_id" : ObjectId("60f041c5f15f33373c1debbe"), 
+    "audit_number" : "73557274", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-15T14:13:09.166+0000"), 
+    "updated_at" : ISODate("2021-07-15T14:13:09.166+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60f116584efaef0f7ccbb917"), 
+    "type" : "VERIFICATION", 
+    "status" : "CREATED", 
+    "audit_id" : ObjectId("60f116584efaef0f7ccbb915"), 
+    "audit_number" : "88692768", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-16T05:17:12.200+0000"), 
+    "updated_at" : ISODate("2021-07-16T05:17:12.200+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60f116584efaef0f7ccbb918"), 
+    "type" : "VERIFICATION", 
+    "status" : "SLAUPLOADED", 
+    "audit_id" : ObjectId("60f116584efaef0f7ccbb915"), 
+    "audit_number" : "88692768", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-16T05:17:12.200+0000"), 
+    "updated_at" : ISODate("2021-07-16T05:17:12.200+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60f116724efaef0f7ccbb932"), 
+    "type" : "VERIFICATION", 
+    "status" : "SLASIGNED", 
+    "audit_id" : ObjectId("60f116584efaef0f7ccbb915"), 
+    "audit_number" : "88692768", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-16T05:17:38.317+0000"), 
+    "updated_at" : ISODate("2021-07-16T05:17:38.317+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60f1167f4efaef0f7ccbb946"), 
+    "type" : "VERIFICATION", 
+    "status" : "PROGRESS", 
+    "audit_id" : ObjectId("60f116584efaef0f7ccbb915"), 
+    "audit_number" : "88692768", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-16T05:17:52.078+0000"), 
+    "updated_at" : ISODate("2021-07-16T05:17:52.078+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60f117f74efaef0f7ccbb99a"), 
+    "type" : "VERIFICATION", 
+    "status" : "CREATED", 
+    "audit_id" : ObjectId("60f117f74efaef0f7ccbb998"), 
+    "audit_number" : "99299301", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-16T05:24:07.384+0000"), 
+    "updated_at" : ISODate("2021-07-16T05:24:07.384+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60f117f74efaef0f7ccbb99b"), 
+    "type" : "VERIFICATION", 
+    "status" : "SLAUPLOADED", 
+    "audit_id" : ObjectId("60f117f74efaef0f7ccbb998"), 
+    "audit_number" : "99299301", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-16T05:24:07.384+0000"), 
+    "updated_at" : ISODate("2021-07-16T05:24:07.384+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60f118044efaef0f7ccbb9b5"), 
+    "type" : "VERIFICATION", 
+    "status" : "SLASIGNED", 
+    "audit_id" : ObjectId("60f117f74efaef0f7ccbb998"), 
+    "audit_number" : "99299301", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-16T05:24:20.215+0000"), 
+    "updated_at" : ISODate("2021-07-16T05:24:20.215+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60f1180f4efaef0f7ccbb9c9"), 
+    "type" : "VERIFICATION", 
+    "status" : "PROGRESS", 
+    "audit_id" : ObjectId("60f117f74efaef0f7ccbb998"), 
+    "audit_number" : "99299301", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-16T05:24:31.964+0000"), 
+    "updated_at" : ISODate("2021-07-16T05:24:31.964+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60f163d7613c5d2b34f2fd26"), 
+    "type" : "VERIFICATION", 
+    "status" : "CREATED", 
+    "audit_id" : ObjectId("60f163d7613c5d2b34f2fd24"), 
+    "audit_number" : "34587216", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-16T10:47:51.755+0000"), 
+    "updated_at" : ISODate("2021-07-16T10:47:51.755+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60f163d7613c5d2b34f2fd27"), 
+    "type" : "VERIFICATION", 
+    "status" : "SLAUPLOADED", 
+    "audit_id" : ObjectId("60f163d7613c5d2b34f2fd24"), 
+    "audit_number" : "34587216", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-16T10:47:51.755+0000"), 
+    "updated_at" : ISODate("2021-07-16T10:47:51.755+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60f163e7613c5d2b34f2fd45"), 
+    "type" : "VERIFICATION", 
+    "status" : "SLASIGNED", 
+    "audit_id" : ObjectId("60f163d7613c5d2b34f2fd24"), 
+    "audit_number" : "34587216", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-16T10:48:07.321+0000"), 
+    "updated_at" : ISODate("2021-07-16T10:48:07.321+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60f163f5613c5d2b34f2fd59"), 
+    "type" : "VERIFICATION", 
+    "status" : "PROGRESS", 
+    "audit_id" : ObjectId("60f163d7613c5d2b34f2fd24"), 
+    "audit_number" : "34587216", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-16T10:48:22.079+0000"), 
+    "updated_at" : ISODate("2021-07-16T10:48:22.079+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60f16719613c5d2b34f2fde4"), 
+    "type" : "VERIFICATION", 
+    "status" : "CREATED", 
+    "audit_id" : ObjectId("60f16719613c5d2b34f2fde2"), 
+    "audit_number" : "95347729", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-16T11:01:45.487+0000"), 
+    "updated_at" : ISODate("2021-07-16T11:01:45.487+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60f16719613c5d2b34f2fde5"), 
+    "type" : "VERIFICATION", 
+    "status" : "SLAUPLOADED", 
+    "audit_id" : ObjectId("60f16719613c5d2b34f2fde2"), 
+    "audit_number" : "95347729", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-16T11:01:45.487+0000"), 
+    "updated_at" : ISODate("2021-07-16T11:01:45.487+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60f16748613c5d2b34f2fe01"), 
+    "type" : "VERIFICATION", 
+    "status" : "SLASIGNED", 
+    "audit_id" : ObjectId("60f16719613c5d2b34f2fde2"), 
+    "audit_number" : "95347729", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-16T11:02:32.307+0000"), 
+    "updated_at" : ISODate("2021-07-16T11:02:32.307+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60f16754613c5d2b34f2fe15"), 
+    "type" : "VERIFICATION", 
+    "status" : "PROGRESS", 
+    "audit_id" : ObjectId("60f16719613c5d2b34f2fde2"), 
+    "audit_number" : "95347729", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-16T11:02:44.442+0000"), 
+    "updated_at" : ISODate("2021-07-16T11:02:44.442+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60f1812beedf291b1cb3ab68"), 
+    "type" : "VERIFICATION", 
+    "status" : "CREATED", 
+    "audit_id" : ObjectId("60f1812beedf291b1cb3ab66"), 
+    "audit_number" : "83137204", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-16T12:52:59.731+0000"), 
+    "updated_at" : ISODate("2021-07-16T12:52:59.731+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60f1812beedf291b1cb3ab69"), 
+    "type" : "VERIFICATION", 
+    "status" : "SLAUPLOADED", 
+    "audit_id" : ObjectId("60f1812beedf291b1cb3ab66"), 
+    "audit_number" : "83137204", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-16T12:52:59.731+0000"), 
+    "updated_at" : ISODate("2021-07-16T12:52:59.731+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60f18137eedf291b1cb3ab83"), 
+    "type" : "VERIFICATION", 
+    "status" : "SLASIGNED", 
+    "audit_id" : ObjectId("60f1812beedf291b1cb3ab66"), 
+    "audit_number" : "83137204", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-16T12:53:11.037+0000"), 
+    "updated_at" : ISODate("2021-07-16T12:53:11.037+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60f18143eedf291b1cb3ab97"), 
+    "type" : "VERIFICATION", 
+    "status" : "PROGRESS", 
+    "audit_id" : ObjectId("60f1812beedf291b1cb3ab66"), 
+    "audit_number" : "83137204", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-16T12:53:23.878+0000"), 
+    "updated_at" : ISODate("2021-07-16T12:53:23.878+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60f1844442ceb3391c448a0b"), 
+    "type" : "VERIFICATION", 
+    "status" : "CREATED", 
+    "audit_id" : ObjectId("60f1844442ceb3391c448a09"), 
+    "audit_number" : "17574575", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-16T13:06:12.329+0000"), 
+    "updated_at" : ISODate("2021-07-16T13:06:12.329+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60f1844442ceb3391c448a0c"), 
+    "type" : "VERIFICATION", 
+    "status" : "SLAUPLOADED", 
+    "audit_id" : ObjectId("60f1844442ceb3391c448a09"), 
+    "audit_number" : "17574575", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-16T13:06:12.329+0000"), 
+    "updated_at" : ISODate("2021-07-16T13:06:12.329+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60f1845742ceb3391c448a26"), 
+    "type" : "VERIFICATION", 
+    "status" : "SLASIGNED", 
+    "audit_id" : ObjectId("60f1844442ceb3391c448a09"), 
+    "audit_number" : "17574575", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-16T13:06:31.636+0000"), 
+    "updated_at" : ISODate("2021-07-16T13:06:31.636+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60f1846742ceb3391c448a3a"), 
+    "type" : "VERIFICATION", 
+    "status" : "PROGRESS", 
+    "audit_id" : ObjectId("60f1844442ceb3391c448a09"), 
+    "audit_number" : "17574575", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-16T13:06:47.451+0000"), 
+    "updated_at" : ISODate("2021-07-16T13:06:47.451+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60f1857a0010b90da8493130"), 
+    "type" : "VERIFICATION", 
+    "status" : "CREATED", 
+    "audit_id" : ObjectId("60f1857a0010b90da849312e"), 
+    "audit_number" : "44105290", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-16T13:11:22.693+0000"), 
+    "updated_at" : ISODate("2021-07-16T13:11:22.693+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60f1857a0010b90da8493131"), 
+    "type" : "VERIFICATION", 
+    "status" : "SLAUPLOADED", 
+    "audit_id" : ObjectId("60f1857a0010b90da849312e"), 
+    "audit_number" : "44105290", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-16T13:11:22.694+0000"), 
+    "updated_at" : ISODate("2021-07-16T13:11:22.694+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60f1858a0010b90da849314f"), 
+    "type" : "VERIFICATION", 
+    "status" : "SLASIGNED", 
+    "audit_id" : ObjectId("60f1857a0010b90da849312e"), 
+    "audit_number" : "44105290", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-16T13:11:38.941+0000"), 
+    "updated_at" : ISODate("2021-07-16T13:11:38.941+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60f1859a0010b90da8493163"), 
+    "type" : "VERIFICATION", 
+    "status" : "PROGRESS", 
+    "audit_id" : ObjectId("60f1857a0010b90da849312e"), 
+    "audit_number" : "44105290", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-16T13:11:54.615+0000"), 
+    "updated_at" : ISODate("2021-07-16T13:11:54.615+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60f185d50010b90da8493193"), 
+    "type" : "VERIFICATION", 
+    "status" : "PROGRESS", 
+    "audit_id" : ObjectId("60f1857a0010b90da849312e"), 
+    "audit_number" : "44105290", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-16T13:12:54.207+0000"), 
+    "updated_at" : ISODate("2021-07-16T13:12:54.207+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60f186eaaa259c39ece620e1"), 
+    "type" : "VERIFICATION", 
+    "status" : "CREATED", 
+    "audit_id" : ObjectId("60f186eaaa259c39ece620df"), 
+    "audit_number" : "28003848", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-16T13:17:30.104+0000"), 
+    "updated_at" : ISODate("2021-07-16T13:17:30.104+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60f186eaaa259c39ece620e2"), 
+    "type" : "VERIFICATION", 
+    "status" : "SLAUPLOADED", 
+    "audit_id" : ObjectId("60f186eaaa259c39ece620df"), 
+    "audit_number" : "28003848", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-16T13:17:30.104+0000"), 
+    "updated_at" : ISODate("2021-07-16T13:17:30.104+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60f186f8aa259c39ece62106"), 
+    "type" : "VERIFICATION", 
+    "status" : "SLASIGNED", 
+    "audit_id" : ObjectId("60f186eaaa259c39ece620df"), 
+    "audit_number" : "28003848", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-16T13:17:44.728+0000"), 
+    "updated_at" : ISODate("2021-07-16T13:17:44.728+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60f18701aa259c39ece6211a"), 
+    "type" : "VERIFICATION", 
+    "status" : "PROGRESS", 
+    "audit_id" : ObjectId("60f186eaaa259c39ece620df"), 
+    "audit_number" : "28003848", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-16T13:17:53.352+0000"), 
+    "updated_at" : ISODate("2021-07-16T13:17:53.352+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60f18805aa259c39ece62145"), 
+    "type" : "VERIFICATION", 
+    "status" : "CREATED", 
+    "audit_id" : ObjectId("60f18805aa259c39ece62143"), 
+    "audit_number" : "50638291", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-16T13:22:13.035+0000"), 
+    "updated_at" : ISODate("2021-07-16T13:22:13.035+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60f18805aa259c39ece62146"), 
+    "type" : "VERIFICATION", 
+    "status" : "SLAUPLOADED", 
+    "audit_id" : ObjectId("60f18805aa259c39ece62143"), 
+    "audit_number" : "50638291", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-16T13:22:13.035+0000"), 
+    "updated_at" : ISODate("2021-07-16T13:22:13.035+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60f18818aa259c39ece6216a"), 
+    "type" : "VERIFICATION", 
+    "status" : "SLASIGNED", 
+    "audit_id" : ObjectId("60f18805aa259c39ece62143"), 
+    "audit_number" : "50638291", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-16T13:22:32.392+0000"), 
+    "updated_at" : ISODate("2021-07-16T13:22:32.392+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60f18825aa259c39ece6217e"), 
+    "type" : "VERIFICATION", 
+    "status" : "PROGRESS", 
+    "audit_id" : ObjectId("60f18805aa259c39ece62143"), 
+    "audit_number" : "50638291", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-16T13:22:45.827+0000"), 
+    "updated_at" : ISODate("2021-07-16T13:22:45.827+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60f18889aa259c39ece621bb"), 
+    "type" : "VERIFICATION", 
+    "status" : "CREATED", 
+    "audit_id" : ObjectId("60f18889aa259c39ece621b9"), 
+    "audit_number" : "29472121", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-16T13:24:25.222+0000"), 
+    "updated_at" : ISODate("2021-07-16T13:24:25.222+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60f18889aa259c39ece621bc"), 
+    "type" : "VERIFICATION", 
+    "status" : "SLAUPLOADED", 
+    "audit_id" : ObjectId("60f18889aa259c39ece621b9"), 
+    "audit_number" : "29472121", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-16T13:24:25.222+0000"), 
+    "updated_at" : ISODate("2021-07-16T13:24:25.222+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60f18898aa259c39ece621d6"), 
+    "type" : "VERIFICATION", 
+    "status" : "SLASIGNED", 
+    "audit_id" : ObjectId("60f18889aa259c39ece621b9"), 
+    "audit_number" : "29472121", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-16T13:24:40.919+0000"), 
+    "updated_at" : ISODate("2021-07-16T13:24:40.919+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60f188a4aa259c39ece621ea"), 
+    "type" : "VERIFICATION", 
+    "status" : "PROGRESS", 
+    "audit_id" : ObjectId("60f18889aa259c39ece621b9"), 
+    "audit_number" : "29472121", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-16T13:24:52.307+0000"), 
+    "updated_at" : ISODate("2021-07-16T13:24:52.307+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60f18a25aa259c39ece62282"), 
+    "type" : "VERIFICATION", 
+    "status" : "CREATED", 
+    "audit_id" : ObjectId("60f18a25aa259c39ece62280"), 
+    "audit_number" : "32508581", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-16T13:31:17.692+0000"), 
+    "updated_at" : ISODate("2021-07-16T13:31:17.692+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60f18a25aa259c39ece62283"), 
+    "type" : "VERIFICATION", 
+    "status" : "SLAUPLOADED", 
+    "audit_id" : ObjectId("60f18a25aa259c39ece62280"), 
+    "audit_number" : "32508581", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-16T13:31:17.692+0000"), 
+    "updated_at" : ISODate("2021-07-16T13:31:17.692+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60f18a3eaa259c39ece6229d"), 
+    "type" : "VERIFICATION", 
+    "status" : "SLASIGNED", 
+    "audit_id" : ObjectId("60f18a25aa259c39ece62280"), 
+    "audit_number" : "32508581", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-16T13:31:42.595+0000"), 
+    "updated_at" : ISODate("2021-07-16T13:31:42.595+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("60f18a4caa259c39ece622b1"), 
+    "type" : "VERIFICATION", 
+    "status" : "PROGRESS", 
+    "audit_id" : ObjectId("60f18a25aa259c39ece62280"), 
+    "audit_number" : "32508581", 
+    "company_id" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "created_at" : ISODate("2021-07-16T13:31:56.367+0000"), 
+    "updated_at" : ISODate("2021-07-16T13:31:56.367+0000"), 
+    "__v" : NumberInt(0)
+}

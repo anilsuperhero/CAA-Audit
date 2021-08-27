@@ -1,0 +1,663 @@
+{ 
+    "_id" : ObjectId("610d3f516fe4252d94fa1ca6"), 
+    "companyId" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "reciptNumber" : "70839501", 
+    "auditId" : ObjectId("610d3efb6fe4252d94fa1c70"), 
+    "amount" : NumberInt(15000), 
+    "transactionType" : "ONLINE", 
+    "status" : "PAID", 
+    "paymentId" : "pi_3JLTWFEhvx1GKPSo0kAUVsbq", 
+    "created_at" : ISODate("2021-08-06T13:55:29.264+0000"), 
+    "updated_at" : ISODate("2021-08-06T13:55:29.264+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("610d41a017a2613224df338e"), 
+    "companyId" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "reciptNumber" : "27803685", 
+    "auditId" : ObjectId("610d411017a2613224df335b"), 
+    "amount" : NumberInt(1500), 
+    "transactionType" : "ONLINE", 
+    "status" : "PAID", 
+    "paymentId" : "pi_3JLTfTEhvx1GKPSo0CJBLgsz", 
+    "created_at" : ISODate("2021-08-06T14:05:20.876+0000"), 
+    "updated_at" : ISODate("2021-08-06T14:05:20.876+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("610d44ec7865dd2ddcc18632"), 
+    "companyId" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "reciptNumber" : "95193185", 
+    "auditId" : ObjectId("610d44d37865dd2ddcc185ff"), 
+    "amount" : NumberInt(1000), 
+    "transactionType" : "ONLINE", 
+    "status" : "PAID", 
+    "paymentId" : "pi_3JLTt5Ehvx1GKPSo1wU2yAHu", 
+    "created_at" : ISODate("2021-08-06T14:19:24.200+0000"), 
+    "updated_at" : ISODate("2021-08-06T14:19:24.200+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("610d477d62d3a3294ca91ec8"), 
+    "companyId" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "reciptNumber" : "51323887", 
+    "auditId" : ObjectId("610d476162d3a3294ca91e99"), 
+    "amount" : NumberInt(100), 
+    "transactionType" : "ONLINE", 
+    "status" : "PAID", 
+    "paymentId" : "pi_3JLU3gEhvx1GKPSo12gkZs6w", 
+    "created_at" : ISODate("2021-08-06T14:30:21.645+0000"), 
+    "updated_at" : ISODate("2021-08-06T14:30:21.645+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("610d4a9ed1e8b52ecc99e67a"), 
+    "companyId" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "reciptNumber" : "98165922", 
+    "auditId" : ObjectId("610d4a85d1e8b52ecc99e64b"), 
+    "amount" : NumberInt(100), 
+    "transactionType" : "ONLINE", 
+    "status" : "PAID", 
+    "paymentId" : "pi_3JLUGaEhvx1GKPSo03WTxk3b", 
+    "created_at" : ISODate("2021-08-06T14:43:42.129+0000"), 
+    "updated_at" : ISODate("2021-08-06T14:43:42.129+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("610d4c156210ef28e41b50a8"), 
+    "companyId" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "reciptNumber" : "65327491", 
+    "auditId" : ObjectId("610d4bf86210ef28e41b5075"), 
+    "amount" : NumberInt(1500), 
+    "transactionType" : "ONLINE", 
+    "status" : "PAID", 
+    "paymentId" : "pi_3JLUMeEhvx1GKPSo0lJOcHFF", 
+    "created_at" : ISODate("2021-08-06T14:49:57.240+0000"), 
+    "updated_at" : ISODate("2021-08-06T14:49:57.240+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("610d505de0eda51cac7951dc"), 
+    "companyId" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "reciptNumber" : "85884322", 
+    "auditId" : ObjectId("610d5044e0eda51cac7951ae"), 
+    "amount" : NumberInt(1000), 
+    "transactionType" : "ONLINE", 
+    "status" : "PAID", 
+    "paymentId" : "pi_3JLUeKEhvx1GKPSo0eZ5kcCl", 
+    "created_at" : ISODate("2021-08-06T15:08:13.225+0000"), 
+    "updated_at" : ISODate("2021-08-06T15:08:13.225+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("610d5169847ab31240cb1d26"), 
+    "companyId" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "reciptNumber" : "36244545", 
+    "auditId" : ObjectId("610d5152847ab31240cb1cf3"), 
+    "amount" : NumberInt(1000), 
+    "transactionType" : "ONLINE", 
+    "status" : "PAID", 
+    "paymentId" : "pi_3JLUieEhvx1GKPSo09TFwTYR", 
+    "created_at" : ISODate("2021-08-06T15:12:41.867+0000"), 
+    "updated_at" : ISODate("2021-08-06T15:12:41.867+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("6110b709fde0bb44e838d0c1"), 
+    "companyId" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "reciptNumber" : "81803411", 
+    "auditId" : ObjectId("6110b6a2fde0bb44e838d088"), 
+    "amount" : NumberInt(15000), 
+    "transactionType" : "ONLINE", 
+    "status" : "PAID", 
+    "paymentId" : "pi_3JMQdKEhvx1GKPSo0W4dFRe3", 
+    "created_at" : ISODate("2021-08-09T05:03:05.443+0000"), 
+    "updated_at" : ISODate("2021-08-09T05:03:05.443+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("6110b8bafde0bb44e838d182"), 
+    "companyId" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "reciptNumber" : "50011912", 
+    "auditId" : ObjectId("6110b890fde0bb44e838d152"), 
+    "amount" : NumberInt(500), 
+    "transactionType" : "ONLINE", 
+    "status" : "PAID", 
+    "paymentId" : "pi_3JMQkJEhvx1GKPSo0yK4ZQMq", 
+    "created_at" : ISODate("2021-08-09T05:10:18.216+0000"), 
+    "updated_at" : ISODate("2021-08-09T05:10:18.216+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("6112054f40bb821bf83bacbc"), 
+    "companyId" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "reciptNumber" : "33858034", 
+    "auditId" : ObjectId("6112028340bb821bf83bac81"), 
+    "amount" : NumberInt(10000), 
+    "transactionType" : "ONLINE", 
+    "status" : "PAID", 
+    "paymentId" : "pi_3JMmtYEhvx1GKPSo1oTx63Xm", 
+    "created_at" : ISODate("2021-08-10T04:49:19.358+0000"), 
+    "updated_at" : ISODate("2021-08-10T04:49:19.358+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("61123dc1af08643f70e996dd"), 
+    "companyId" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "reciptNumber" : "63013661", 
+    "auditId" : ObjectId("61123da6af08643f70e996b7"), 
+    "amount" : NumberInt(15000), 
+    "transactionType" : "ONLINE", 
+    "status" : "PAID", 
+    "paymentId" : "pi_3JMqebEhvx1GKPSo0O1rbmjt", 
+    "created_at" : ISODate("2021-08-10T08:50:09.224+0000"), 
+    "updated_at" : ISODate("2021-08-10T08:50:09.224+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("61124c922b5f8405c46f01f9"), 
+    "companyId" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "reciptNumber" : "91998041", 
+    "auditId" : ObjectId("61124c792b5f8405c46f01d3"), 
+    "amount" : NumberInt(15000), 
+    "transactionType" : "ONLINE", 
+    "status" : "PAID", 
+    "paymentId" : "pi_3JMrdnEhvx1GKPSo1Nke3PpO", 
+    "created_at" : ISODate("2021-08-10T09:53:22.966+0000"), 
+    "updated_at" : ISODate("2021-08-10T09:53:22.966+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("6112633b2b5f8405c46f06cf"), 
+    "companyId" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "reciptNumber" : "97887495", 
+    "auditId" : ObjectId("611263252b5f8405c46f06a9"), 
+    "amount" : NumberInt(5000), 
+    "transactionType" : "ONLINE", 
+    "status" : "PAID", 
+    "paymentId" : "pi_3JMt9LEhvx1GKPSo1vnsMJ51", 
+    "created_at" : ISODate("2021-08-10T11:30:03.171+0000"), 
+    "updated_at" : ISODate("2021-08-10T11:30:03.171+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("61127bb32b5f8405c46f0b54"), 
+    "companyId" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "reciptNumber" : "66741049", 
+    "auditId" : ObjectId("61127b9b2b5f8405c46f0b24"), 
+    "amount" : NumberInt(1000), 
+    "transactionType" : "ONLINE", 
+    "status" : "PAID", 
+    "paymentId" : "pi_3JMumOEhvx1GKPSo0h4yBvko", 
+    "created_at" : ISODate("2021-08-10T13:14:27.817+0000"), 
+    "updated_at" : ISODate("2021-08-10T13:14:27.817+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("61139c51f715832248b52e16"), 
+    "companyId" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "reciptNumber" : "69049082", 
+    "auditId" : ObjectId("61139c30f715832248b52de6"), 
+    "amount" : NumberInt(5000), 
+    "transactionType" : "ONLINE", 
+    "status" : "PAID", 
+    "paymentId" : "pi_3JNE05Ehvx1GKPSo1GBtEqlg", 
+    "created_at" : ISODate("2021-08-11T09:45:53.667+0000"), 
+    "updated_at" : ISODate("2021-08-11T09:45:53.667+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("6113b75eb980331a288406be"), 
+    "companyId" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "reciptNumber" : "77956039", 
+    "auditId" : ObjectId("6113b736b980331a2884068e"), 
+    "amount" : NumberInt(15000), 
+    "transactionType" : "ONLINE", 
+    "status" : "PAID", 
+    "paymentId" : "pi_3JNFnmEhvx1GKPSo1Eg1Ooow", 
+    "created_at" : ISODate("2021-08-11T11:41:18.941+0000"), 
+    "updated_at" : ISODate("2021-08-11T11:41:18.941+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("6113d39af03a473070a03b4e"), 
+    "companyId" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "reciptNumber" : "27464819", 
+    "auditId" : ObjectId("6113d382f03a473070a03b1e"), 
+    "amount" : NumberInt(5000), 
+    "transactionType" : "ONLINE", 
+    "status" : "PAID", 
+    "paymentId" : "pi_3JNHgMEhvx1GKPSo1dqdUDQH", 
+    "created_at" : ISODate("2021-08-11T13:41:46.741+0000"), 
+    "updated_at" : ISODate("2021-08-11T13:41:46.741+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("6114c895e8c5e527f82c5bd2"), 
+    "companyId" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "reciptNumber" : "16473570", 
+    "auditId" : ObjectId("6114bd717cf73e3674d3660c"), 
+    "amount" : NumberInt(15000), 
+    "transactionType" : "ONLINE", 
+    "status" : "PAID", 
+    "paymentId" : "pi_3JNXzsEhvx1GKPSo116GRdVv", 
+    "created_at" : ISODate("2021-08-12T07:07:01.382+0000"), 
+    "updated_at" : ISODate("2021-08-12T07:07:01.382+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("6114c9aee8c5e527f82c5c14"), 
+    "companyId" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "reciptNumber" : "35517954", 
+    "auditId" : ObjectId("6114bd717cf73e3674d3660c"), 
+    "amount" : NumberInt(15000), 
+    "transactionType" : "ONLINE", 
+    "status" : "PAID", 
+    "paymentId" : "pi_3JNY4PEhvx1GKPSo13pYuKl7", 
+    "created_at" : ISODate("2021-08-12T07:11:42.116+0000"), 
+    "updated_at" : ISODate("2021-08-12T07:11:42.116+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("6114ca232bf6ab1050a6181a"), 
+    "companyId" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "reciptNumber" : "78105628", 
+    "auditId" : ObjectId("6114bd717cf73e3674d3660c"), 
+    "amount" : NumberInt(15000), 
+    "transactionType" : "ONLINE", 
+    "status" : "PAID", 
+    "paymentId" : "pi_3JNY6IEhvx1GKPSo1Ggn0Knp", 
+    "created_at" : ISODate("2021-08-12T07:13:39.375+0000"), 
+    "updated_at" : ISODate("2021-08-12T07:13:39.375+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("6114ca638ee03920e4475f35"), 
+    "companyId" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "reciptNumber" : "83776851", 
+    "auditId" : ObjectId("6114bd717cf73e3674d3660c"), 
+    "amount" : NumberInt(15000), 
+    "transactionType" : "ONLINE", 
+    "status" : "PAID", 
+    "paymentId" : "pi_3JNY7LEhvx1GKPSo1MYJ0Wwy", 
+    "created_at" : ISODate("2021-08-12T07:14:43.860+0000"), 
+    "updated_at" : ISODate("2021-08-12T07:14:43.860+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("6114cb0c14cd5e27e4b9712d"), 
+    "companyId" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "reciptNumber" : "61592917", 
+    "auditId" : ObjectId("6114bd717cf73e3674d3660c"), 
+    "amount" : NumberInt(15000), 
+    "transactionType" : "ONLINE", 
+    "status" : "PAID", 
+    "paymentId" : "pi_3JNYA4Ehvx1GKPSo0q9tH2tc", 
+    "created_at" : ISODate("2021-08-12T07:17:32.969+0000"), 
+    "updated_at" : ISODate("2021-08-12T07:17:32.969+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("6114cc2c2d18f62f64072f7f"), 
+    "companyId" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "reciptNumber" : "33213995", 
+    "auditId" : ObjectId("6113d382f03a473070a03b1e"), 
+    "amount" : NumberInt(5000), 
+    "transactionType" : "ONLINE", 
+    "status" : "PAID", 
+    "paymentId" : "pi_3JNYEhEhvx1GKPSo0Ma3E5gR", 
+    "created_at" : ISODate("2021-08-12T07:22:20.429+0000"), 
+    "updated_at" : ISODate("2021-08-12T07:22:20.429+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("6114cc4a2d18f62f64072fa4"), 
+    "companyId" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "reciptNumber" : "36909562", 
+    "auditId" : ObjectId("6114bd717cf73e3674d3660c"), 
+    "amount" : NumberInt(15000), 
+    "transactionType" : "ONLINE", 
+    "status" : "PAID", 
+    "paymentId" : "pi_3JNYFAEhvx1GKPSo1KYNl1WL", 
+    "created_at" : ISODate("2021-08-12T07:22:50.170+0000"), 
+    "updated_at" : ISODate("2021-08-12T07:22:50.170+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("6114e89630c5b429c028e208"), 
+    "companyId" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "reciptNumber" : "19862287", 
+    "auditId" : ObjectId("6114e86730c5b429c028e1d0"), 
+    "amount" : NumberInt(5000), 
+    "transactionType" : "ONLINE", 
+    "status" : "PAID", 
+    "paymentId" : "pi_3JNa81Ehvx1GKPSo132PDOiH", 
+    "created_at" : ISODate("2021-08-12T09:23:34.430+0000"), 
+    "updated_at" : ISODate("2021-08-12T09:23:34.430+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("6114e9f66365283e940b448d"), 
+    "companyId" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "reciptNumber" : "54247322", 
+    "auditId" : ObjectId("6114e9bc6365283e940b4451"), 
+    "amount" : NumberInt(1000), 
+    "transactionType" : "ONLINE", 
+    "status" : "PAID", 
+    "paymentId" : "pi_3JNaDhEhvx1GKPSo11ZxmfN3", 
+    "created_at" : ISODate("2021-08-12T09:29:26.495+0000"), 
+    "updated_at" : ISODate("2021-08-12T09:29:26.495+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("6114f4c3f777d03884fe7ec6"), 
+    "companyId" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "reciptNumber" : "87623944", 
+    "auditId" : ObjectId("6114f4a1f777d03884fe7e8a"), 
+    "amount" : NumberInt(1500), 
+    "transactionType" : "ONLINE", 
+    "status" : "PAID", 
+    "paymentId" : "pi_3JNawIEhvx1GKPSo0JO6DT66", 
+    "created_at" : ISODate("2021-08-12T10:15:31.280+0000"), 
+    "updated_at" : ISODate("2021-08-12T10:15:31.280+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("6114fd3637e785357001b9f6"), 
+    "companyId" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "reciptNumber" : "81862959", 
+    "auditId" : ObjectId("6114fcfb37e785357001b9bc"), 
+    "amount" : NumberInt(1500), 
+    "transactionType" : "ONLINE", 
+    "status" : "PAID", 
+    "paymentId" : "pi_3JNbVBEhvx1GKPSo1wUPlmYv", 
+    "created_at" : ISODate("2021-08-12T10:51:34.142+0000"), 
+    "updated_at" : ISODate("2021-08-12T10:51:34.142+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("6114fde44d13c01d64311130"), 
+    "companyId" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "reciptNumber" : "82621225", 
+    "auditId" : ObjectId("6114fdc64d13c01d643110f9"), 
+    "amount" : NumberInt(15000), 
+    "transactionType" : "ONLINE", 
+    "status" : "PAID", 
+    "paymentId" : "pi_3JNbXzEhvx1GKPSo0a6UIe0B", 
+    "created_at" : ISODate("2021-08-12T10:54:28.300+0000"), 
+    "updated_at" : ISODate("2021-08-12T10:54:28.300+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("611505adb8fe892f9cbf19f4"), 
+    "companyId" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "reciptNumber" : "64936752", 
+    "auditId" : ObjectId("61150140026f542f6852937d"), 
+    "amount" : NumberInt(1500), 
+    "transactionType" : "ONLINE", 
+    "status" : "PAID", 
+    "paymentId" : "pi_3JNc48Ehvx1GKPSo1EUuWXAL", 
+    "created_at" : ISODate("2021-08-12T11:27:41.722+0000"), 
+    "updated_at" : ISODate("2021-08-12T11:27:41.722+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("611507de43fb770448b63528"), 
+    "companyId" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "reciptNumber" : "34221580", 
+    "auditId" : ObjectId("611507c843fb770448b634fa"), 
+    "amount" : NumberInt(15000), 
+    "transactionType" : "ONLINE", 
+    "status" : "PAID", 
+    "paymentId" : "pi_3JNcDBEhvx1GKPSo1oy7pQ3p", 
+    "created_at" : ISODate("2021-08-12T11:37:02.166+0000"), 
+    "updated_at" : ISODate("2021-08-12T11:37:02.166+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("61150e09f97c5f08c0fd10a0"), 
+    "companyId" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "reciptNumber" : "69963209", 
+    "auditId" : ObjectId("61150dd8f97c5f08c0fd106b"), 
+    "amount" : NumberInt(15000), 
+    "transactionType" : "ONLINE", 
+    "status" : "PAID", 
+    "paymentId" : "pi_3JNcceEhvx1GKPSo1QbLvq1H", 
+    "created_at" : ISODate("2021-08-12T12:03:21.367+0000"), 
+    "updated_at" : ISODate("2021-08-12T12:03:21.367+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("61151673ed68872a7c462bb9"), 
+    "companyId" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "reciptNumber" : "85852417", 
+    "auditId" : ObjectId("61151150eaddf2327019c6f3"), 
+    "amount" : NumberInt(5000), 
+    "transactionType" : "ONLINE", 
+    "status" : "PAID", 
+    "paymentId" : "pi_3JNdBOEhvx1GKPSo0v4pSwpJ", 
+    "created_at" : ISODate("2021-08-12T12:39:15.367+0000"), 
+    "updated_at" : ISODate("2021-08-12T12:39:15.367+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("61151c39108ec11f4c91e064"), 
+    "companyId" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "reciptNumber" : "60147917", 
+    "auditId" : ObjectId("61151c18108ec11f4c91e02f"), 
+    "amount" : NumberInt(1000), 
+    "transactionType" : "ONLINE", 
+    "status" : "PAID", 
+    "paymentId" : "pi_3JNdZEEhvx1GKPSo0eFXm8b7", 
+    "created_at" : ISODate("2021-08-12T13:03:53.664+0000"), 
+    "updated_at" : ISODate("2021-08-12T13:03:53.664+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("6115240ab5ab683344d65fae"), 
+    "companyId" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "reciptNumber" : "11302481", 
+    "auditId" : ObjectId("61151c18108ec11f4c91e02f"), 
+    "amount" : NumberInt(10000), 
+    "transactionType" : "ONLINE", 
+    "status" : "PAID", 
+    "paymentId" : "pi_3JNe5VEhvx1GKPSo18qsfWQQ", 
+    "created_at" : ISODate("2021-08-12T13:37:14.818+0000"), 
+    "updated_at" : ISODate("2021-08-12T13:37:14.818+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("611525de6f7e610ca46d06b1"), 
+    "companyId" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "reciptNumber" : "98476223", 
+    "auditId" : ObjectId("611525b76f7e610ca46d067c"), 
+    "amount" : NumberInt(1000), 
+    "transactionType" : "ONLINE", 
+    "status" : "PAID", 
+    "paymentId" : "pi_3JNeD3Ehvx1GKPSo0bWsOfbQ", 
+    "created_at" : ISODate("2021-08-12T13:45:02.150+0000"), 
+    "updated_at" : ISODate("2021-08-12T13:45:02.150+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("6116173dd08d510e60532118"), 
+    "companyId" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "reciptNumber" : "74626729", 
+    "auditId" : ObjectId("6116120ee656bf28c8d8d012"), 
+    "amount" : NumberInt(5000), 
+    "transactionType" : "ONLINE", 
+    "status" : "PAID", 
+    "paymentId" : "pi_3JNuHgEhvx1GKPSo1bIK18CW", 
+    "created_at" : ISODate("2021-08-13T06:54:53.700+0000"), 
+    "updated_at" : ISODate("2021-08-13T06:54:53.700+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("6116206657bd7d0228233ba3"), 
+    "companyId" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "reciptNumber" : "96826973", 
+    "auditId" : ObjectId("61162002976f7d0278f3b2ee"), 
+    "amount" : NumberInt(100), 
+    "transactionType" : "ONLINE", 
+    "status" : "PAID", 
+    "paymentId" : "pi_3JNutUEhvx1GKPSo1DCaMC0W", 
+    "created_at" : ISODate("2021-08-13T07:33:58.396+0000"), 
+    "updated_at" : ISODate("2021-08-13T07:33:58.396+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("61162129b176913e4cac1508"), 
+    "companyId" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "reciptNumber" : "25124237", 
+    "auditId" : ObjectId("61162002976f7d0278f3b2ee"), 
+    "amount" : NumberInt(100), 
+    "transactionType" : "ONLINE", 
+    "status" : "PAID", 
+    "paymentId" : "pi_3JNuweEhvx1GKPSo1ogn0PYR", 
+    "created_at" : ISODate("2021-08-13T07:37:13.778+0000"), 
+    "updated_at" : ISODate("2021-08-13T07:37:13.778+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("6116363acfaf5230741ad77f"), 
+    "companyId" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "reciptNumber" : "96308795", 
+    "auditId" : ObjectId("6116360bcfaf5230741ad73c"), 
+    "amount" : NumberInt(100), 
+    "transactionType" : "ONLINE", 
+    "status" : "PAID", 
+    "paymentId" : "pi_3JNwLcEhvx1GKPSo14FXu8T0", 
+    "created_at" : ISODate("2021-08-13T09:07:06.491+0000"), 
+    "updated_at" : ISODate("2021-08-13T09:07:06.491+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("61163fc975302e4644d9d33e"), 
+    "companyId" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "reciptNumber" : "26072037", 
+    "auditId" : ObjectId("61163f5175302e4644d9d303"), 
+    "amount" : NumberInt(1500), 
+    "transactionType" : "ONLINE", 
+    "status" : "PAID", 
+    "paymentId" : "pi_3JNwz6Ehvx1GKPSo0Rv6FDBF", 
+    "created_at" : ISODate("2021-08-13T09:47:53.997+0000"), 
+    "updated_at" : ISODate("2021-08-13T09:47:53.997+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("611645d390d343390c12a0a5"), 
+    "companyId" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "reciptNumber" : "46859852", 
+    "auditId" : ObjectId("61163f5175302e4644d9d303"), 
+    "amount" : NumberInt(2500), 
+    "transactionType" : "ONLINE", 
+    "status" : "PAID", 
+    "paymentId" : "pi_3JNxO2Ehvx1GKPSo0E9tT04a", 
+    "created_at" : ISODate("2021-08-13T10:13:39.944+0000"), 
+    "updated_at" : ISODate("2021-08-13T10:13:39.944+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("61164a5690d343390c12a24e"), 
+    "companyId" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "reciptNumber" : "39399481", 
+    "auditId" : ObjectId("61164a0290d343390c12a216"), 
+    "amount" : NumberInt(5000), 
+    "transactionType" : "ONLINE", 
+    "status" : "PAID", 
+    "paymentId" : "pi_3JNxgfEhvx1GKPSo0va7EeHt", 
+    "created_at" : ISODate("2021-08-13T10:32:54.595+0000"), 
+    "updated_at" : ISODate("2021-08-13T10:32:54.595+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("61164c0990d343390c12a3ab"), 
+    "companyId" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "reciptNumber" : "14377307", 
+    "auditId" : ObjectId("61164a0290d343390c12a216"), 
+    "amount" : NumberInt(4000), 
+    "transactionType" : "ONLINE", 
+    "status" : "PAID", 
+    "paymentId" : "pi_3JNxnfEhvx1GKPSo1wuAfT3A", 
+    "created_at" : ISODate("2021-08-13T10:40:09.543+0000"), 
+    "updated_at" : ISODate("2021-08-13T10:40:09.543+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("61164f6754d0ca38e498e03f"), 
+    "companyId" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "reciptNumber" : "95951363", 
+    "auditId" : ObjectId("61164f3554d0ca38e498e004"), 
+    "amount" : NumberInt(1000), 
+    "transactionType" : "ONLINE", 
+    "status" : "PAID", 
+    "paymentId" : "pi_3JNy1ZEhvx1GKPSo1xLECZcq", 
+    "created_at" : ISODate("2021-08-13T10:54:31.241+0000"), 
+    "updated_at" : ISODate("2021-08-13T10:54:31.241+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("611650fcba07a54aa4cfd6ad"), 
+    "companyId" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "reciptNumber" : "24556250", 
+    "auditId" : ObjectId("61164fd254d0ca38e498e076"), 
+    "amount" : NumberInt(5000), 
+    "transactionType" : "ONLINE", 
+    "status" : "PAID", 
+    "paymentId" : "pi_3JNy87Ehvx1GKPSo0iuEUo3e", 
+    "created_at" : ISODate("2021-08-13T11:01:16.605+0000"), 
+    "updated_at" : ISODate("2021-08-13T11:01:16.605+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("611656b60c1ae03da0539922"), 
+    "companyId" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "reciptNumber" : "39986760", 
+    "auditId" : ObjectId("611656810c1ae03da05398d1"), 
+    "amount" : NumberInt(5000), 
+    "transactionType" : "ONLINE", 
+    "status" : "PAID", 
+    "paymentId" : "pi_3JNyVlEhvx1GKPSo1Ic0jr2O", 
+    "created_at" : ISODate("2021-08-13T11:25:42.625+0000"), 
+    "updated_at" : ISODate("2021-08-13T11:25:42.625+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("61165b156ad1c6082c0a8908"), 
+    "companyId" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "reciptNumber" : "19268683", 
+    "auditId" : ObjectId("611656810c1ae03da05398d1"), 
+    "amount" : NumberInt(5000), 
+    "transactionType" : "ONLINE", 
+    "status" : "PAID", 
+    "paymentId" : "pi_3JNynoEhvx1GKPSo17M59xgE", 
+    "created_at" : ISODate("2021-08-13T11:44:21.786+0000"), 
+    "updated_at" : ISODate("2021-08-13T11:44:21.786+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("61166a93af32773bf08ec062"), 
+    "companyId" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "reciptNumber" : "92248465", 
+    "auditId" : ObjectId("611669edaf32773bf08ebfe3"), 
+    "amount" : NumberInt(10000), 
+    "transactionType" : "ONLINE", 
+    "status" : "PAID", 
+    "paymentId" : "pi_3JNzplEhvx1GKPSo1kiF7Hyv", 
+    "created_at" : ISODate("2021-08-13T12:50:27.245+0000"), 
+    "updated_at" : ISODate("2021-08-13T12:50:27.245+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("611670935f70172834894c62"), 
+    "companyId" : ObjectId("60cafce6148fd42bd26b4fd7"), 
+    "reciptNumber" : "20018677", 
+    "auditId" : ObjectId("6116702e5f70172834894c2b"), 
+    "amount" : NumberInt(5000), 
+    "transactionType" : "ONLINE", 
+    "status" : "PAID", 
+    "paymentId" : "pi_3JO0EXEhvx1GKPSo0CDjPnA8", 
+    "created_at" : ISODate("2021-08-13T13:16:03.400+0000"), 
+    "updated_at" : ISODate("2021-08-13T13:16:03.400+0000"), 
+    "__v" : NumberInt(0)
+}
